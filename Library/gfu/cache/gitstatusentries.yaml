@@ -13,24 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-28T16:44:55.439+05:30
-  initializedAtString: 2020-07-28T10:25:13.628+05:30
+  lastUpdatedAtString: 2020-07-29T16:02:04.910+05:30
+  initializedAtString: 2020-07-29T09:03:02.666+05:30
   entries:
-  - path: Assets\Circle.png
-    fullPath: E:\Unity\salad-chef\Assets\Circle.png
-    projectPath: Assets\Circle.png
+  - path: .vs\salad-chef\v16\.suo
+    fullPath: E:\Unity\salad-chef\.vs\salad-chef\v16\.suo
+    projectPath: .vs\salad-chef\v16\.suo
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Circle.png.meta
-    fullPath: E:\Unity\salad-chef\Assets\Circle.png.meta
-    projectPath: Assets\Circle.png.meta
+  - path: Assembly-CSharp.csproj
+    fullPath: E:\Unity\salad-chef\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs.meta
-    fullPath: E:\Unity\salad-chef\Assets\Prefabs.meta
-    projectPath: Assets\Prefabs.meta
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: E:\Unity\salad-chef\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -38,23 +38,53 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Assets\Prefabs\Angry_Customer.prefab
     projectPath: Assets\Prefabs\Angry_Customer.prefab
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefabs\Angry_Customer.prefab.meta
     fullPath: E:\Unity\salad-chef\Assets\Prefabs\Angry_Customer.prefab.meta
     projectPath: Assets\Prefabs\Angry_Customer.prefab.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Prefabs\Normal_Customer.prefab
     fullPath: E:\Unity\salad-chef\Assets\Prefabs\Normal_Customer.prefab
     projectPath: Assets\Prefabs\Normal_Customer.prefab
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Prefabs\Player1.prefab
+    fullPath: E:\Unity\salad-chef\Assets\Prefabs\Player1.prefab
+    projectPath: Assets\Prefabs\Player1.prefab
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Prefabs\Normal_Customer.prefab.meta
-    fullPath: E:\Unity\salad-chef\Assets\Prefabs\Normal_Customer.prefab.meta
-    projectPath: Assets\Prefabs\Normal_Customer.prefab.meta
+  - path: Assets\Prefabs\Player1.prefab.meta
+    fullPath: E:\Unity\salad-chef\Assets\Prefabs\Player1.prefab.meta
+    projectPath: Assets\Prefabs\Player1.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Player2.prefab
+    fullPath: E:\Unity\salad-chef\Assets\Prefabs\Player2.prefab
+    projectPath: Assets\Prefabs\Player2.prefab
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Player2.prefab.meta
+    fullPath: E:\Unity\salad-chef\Assets\Prefabs\Player2.prefab.meta
+    projectPath: Assets\Prefabs\Player2.prefab.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\GameOver.unity
+    fullPath: E:\Unity\salad-chef\Assets\Scenes\GameOver.unity
+    projectPath: Assets\Scenes\GameOver.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scenes\GameOver.unity.meta
+    fullPath: E:\Unity\salad-chef\Assets\Scenes\GameOver.unity.meta
+    projectPath: Assets\Scenes\GameOver.unity.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -68,11 +98,17 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Assets\Scripts\Customer.cs
     projectPath: Assets\Scripts\Customer.cs
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\FinishedScript.cs
+    fullPath: E:\Unity\salad-chef\Assets\Scripts\FinishedScript.cs
+    projectPath: Assets\Scripts\FinishedScript.cs
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\Customer.cs.meta
-    fullPath: E:\Unity\salad-chef\Assets\Scripts\Customer.cs.meta
-    projectPath: Assets\Scripts\Customer.cs.meta
+  - path: Assets\Scripts\FinishedScript.cs.meta
+    fullPath: E:\Unity\salad-chef\Assets\Scripts\FinishedScript.cs.meta
+    projectPath: Assets\Scripts\FinishedScript.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -86,129 +122,17 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Assets\Scripts\PlayerScript.cs
     projectPath: Assets\Scripts\PlayerScript.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\PlayerScript.cs.meta
-    fullPath: E:\Unity\salad-chef\Assets\Scripts\PlayerScript.cs.meta
-    projectPath: Assets\Scripts\PlayerScript.cs.meta
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Timer.cs
+    fullPath: E:\Unity\salad-chef\Assets\Scripts\Timer.cs
+    projectPath: Assets\Scripts\Timer.cs
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\TextMesh Pro.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro.meta
-    projectPath: Assets\TextMesh Pro.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Documentation.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Documentation.meta
-    projectPath: Assets\TextMesh Pro\Documentation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Documentation\TextMesh Pro User
-      Guide 2016.pdf
-    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Documentation\TextMesh Pro User
-      Guide 2016.pdf.meta
-    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Fonts.meta
-    projectPath: Assets\TextMesh Pro\Fonts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources.meta
-    projectPath: Assets\TextMesh Pro\Resources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
-      Shadow.mat
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Drop Shadow.mat
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Drop Shadow.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
-      Shadow.mat.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Drop Shadow.mat.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Drop Shadow.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Fallback.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Fallback.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Outline.mat
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Outline.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF - Outline.mat.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Outline.mat.meta
+  - path: Assets\Scripts\Timer.cs.meta
+    fullPath: E:\Unity\salad-chef\Assets\Scripts\Timer.cs.meta
+    projectPath: Assets\Scripts\Timer.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -217,385 +141,20 @@ MonoBehaviour:
       SDF.asset
     projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
-      SDF.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\LineBreaking Following
-      Characters.txt
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\LineBreaking Following
-      Characters.txt.meta
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\LineBreaking Leading
-      Characters.txt
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\LineBreaking Leading
-      Characters.txt.meta
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF Overlay.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
-      Masking.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
-      Masking.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Masking.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
-      Overlay.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile
-      Overlay.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
-    projectPath: Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Sprite Assets.meta
-    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Style Sheets.meta
-    projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Style Sheets\Default
-      Style Sheet.asset
-    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\Style Sheets\Default
-      Style Sheet.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\TMP Settings.asset
-    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Sprites.meta
-    projectPath: Assets\TextMesh Pro\Sprites.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Sprites\EmojiOne.json
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Sprites\EmojiOne.png
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
-    fullPath: E:\Unity\salad-chef\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures.meta
-    fullPath: E:\Unity\salad-chef\Assets\Textures.meta
-    projectPath: Assets\Textures.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Assets\Textures\chromedriver_win32.zip
     fullPath: E:\Unity\salad-chef\Assets\Textures\chromedriver_win32.zip
     projectPath: Assets\Textures\chromedriver_win32.zip
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Textures\chromedriver_win32.zip.meta
     fullPath: E:\Unity\salad-chef\Assets\Textures\chromedriver_win32.zip.meta
     projectPath: Assets\Textures\chromedriver_win32.zip.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\dustbin.png
-    fullPath: E:\Unity\salad-chef\Assets\Textures\dustbin.png
-    projectPath: Assets\Textures\dustbin.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\dustbin.png.meta
-    fullPath: E:\Unity\salad-chef\Assets\Textures\dustbin.png.meta
-    projectPath: Assets\Textures\dustbin.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Greyhound (2020) [720p] [WEBRip] [YTS.MX].torrent
-    fullPath: E:\Unity\salad-chef\Assets\Textures\Greyhound (2020) [720p] [WEBRip]
-      [YTS.MX].torrent
-    projectPath: Assets\Textures\Greyhound (2020) [720p] [WEBRip] [YTS.MX].torrent
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Greyhound (2020) [720p] [WEBRip] [YTS.MX].torrent.meta
-    fullPath: E:\Unity\salad-chef\Assets\Textures\Greyhound (2020) [720p] [WEBRip]
-      [YTS.MX].torrent.meta
-    projectPath: Assets\Textures\Greyhound (2020) [720p] [WEBRip] [YTS.MX].torrent.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Jojo Rabbit (2019) [720p] [BluRay] [YTS.MX].torrent
-    fullPath: E:\Unity\salad-chef\Assets\Textures\Jojo Rabbit (2019) [720p] [BluRay]
-      [YTS.MX].torrent
-    projectPath: Assets\Textures\Jojo Rabbit (2019) [720p] [BluRay] [YTS.MX].torrent
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Jojo Rabbit (2019) [720p] [BluRay] [YTS.MX].torrent.meta
-    fullPath: E:\Unity\salad-chef\Assets\Textures\Jojo Rabbit (2019) [720p] [BluRay]
-      [YTS.MX].torrent.meta
-    projectPath: Assets\Textures\Jojo Rabbit (2019) [720p] [BluRay] [YTS.MX].torrent.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Valkyrie (2008) [720p] [BluRay] [YTS.MX].torrent
-    fullPath: E:\Unity\salad-chef\Assets\Textures\Valkyrie (2008) [720p] [BluRay]
-      [YTS.MX].torrent
-    projectPath: Assets\Textures\Valkyrie (2008) [720p] [BluRay] [YTS.MX].torrent
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Textures\Valkyrie (2008) [720p] [BluRay] [YTS.MX].torrent.meta
-    fullPath: E:\Unity\salad-chef\Assets\Textures\Valkyrie (2008) [720p] [BluRay]
-      [YTS.MX].torrent.meta
-    projectPath: Assets\Textures\Valkyrie (2008) [720p] [BluRay] [YTS.MX].torrent.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\assetDatabase3
     fullPath: E:\Unity\salad-chef\Library\assetDatabase3
     projectPath: Library\assetDatabase3
@@ -620,12 +179,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\EditorUserBuildSettings.asset
+    fullPath: E:\Unity\salad-chef\Library\EditorUserBuildSettings.asset
+    projectPath: Library\EditorUserBuildSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\expandedItems
     fullPath: E:\Unity\salad-chef\Library\expandedItems
     projectPath: Library\expandedItems
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: E:\Unity\salad-chef\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -656,12 +221,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\gfu\cache\gituser.yaml
-    fullPath: E:\Unity\salad-chef\Library\gfu\cache\gituser.yaml
-    projectPath: Library\gfu\cache\gituser.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: E:\Unity\salad-chef\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
@@ -674,189 +233,33 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\LastSceneManagerSetup.txt
-    fullPath: E:\Unity\salad-chef\Library\LastSceneManagerSetup.txt
-    projectPath: Library\LastSceneManagerSetup.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\metadata\0a\0a1f9875fec6b9c4a87d74b51d6ae183
     fullPath: E:\Unity\salad-chef\Library\metadata\0a\0a1f9875fec6b9c4a87d74b51d6ae183
     projectPath: Library\metadata\0a\0a1f9875fec6b9c4a87d74b51d6ae183
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\0a\0a1f9875fec6b9c4a87d74b51d6ae183.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\0a\0a1f9875fec6b9c4a87d74b51d6ae183.info
-    projectPath: Library\metadata\0a\0a1f9875fec6b9c4a87d74b51d6ae183.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\12\128e987d567d4e2c824d754223b3f3b0
-    fullPath: E:\Unity\salad-chef\Library\metadata\12\128e987d567d4e2c824d754223b3f3b0
-    projectPath: Library\metadata\12\128e987d567d4e2c824d754223b3f3b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\12\128e987d567d4e2c824d754223b3f3b0.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\12\128e987d567d4e2c824d754223b3f3b0.info
-    projectPath: Library\metadata\12\128e987d567d4e2c824d754223b3f3b0.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\19\19480ea2c2645d248a1e162c93701749
     fullPath: E:\Unity\salad-chef\Library\metadata\19\19480ea2c2645d248a1e162c93701749
     projectPath: Library\metadata\19\19480ea2c2645d248a1e162c93701749
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\metadata\19\19480ea2c2645d248a1e162c93701749.info
     fullPath: E:\Unity\salad-chef\Library\metadata\19\19480ea2c2645d248a1e162c93701749.info
     projectPath: Library\metadata\19\19480ea2c2645d248a1e162c93701749.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\1b\1b8d251f9af63b746bf2f7ffe00ebb9b
-    fullPath: E:\Unity\salad-chef\Library\metadata\1b\1b8d251f9af63b746bf2f7ffe00ebb9b
-    projectPath: Library\metadata\1b\1b8d251f9af63b746bf2f7ffe00ebb9b
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\49\49f5c13a1dce547438bd1f903200c5b2
+    fullPath: E:\Unity\salad-chef\Library\metadata\49\49f5c13a1dce547438bd1f903200c5b2
+    projectPath: Library\metadata\49\49f5c13a1dce547438bd1f903200c5b2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\1b\1b8d251f9af63b746bf2f7ffe00ebb9b.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\1b\1b8d251f9af63b746bf2f7ffe00ebb9b.info
-    projectPath: Library\metadata\1b\1b8d251f9af63b746bf2f7ffe00ebb9b.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\1e\1e3b057af24249748ff873be7fafee47
-    fullPath: E:\Unity\salad-chef\Library\metadata\1e\1e3b057af24249748ff873be7fafee47
-    projectPath: Library\metadata\1e\1e3b057af24249748ff873be7fafee47
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\1e\1e3b057af24249748ff873be7fafee47.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\1e\1e3b057af24249748ff873be7fafee47.info
-    projectPath: Library\metadata\1e\1e3b057af24249748ff873be7fafee47.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\24\243e06394e614e5d99fab26083b707fa
-    fullPath: E:\Unity\salad-chef\Library\metadata\24\243e06394e614e5d99fab26083b707fa
-    projectPath: Library\metadata\24\243e06394e614e5d99fab26083b707fa
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\24\243e06394e614e5d99fab26083b707fa.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\24\243e06394e614e5d99fab26083b707fa.info
-    projectPath: Library\metadata\24\243e06394e614e5d99fab26083b707fa.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4
-    fullPath: E:\Unity\salad-chef\Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4
-    projectPath: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
-    projectPath: Library\metadata\2e\2e498d1c8094910479dc3e1b768306a4.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\38\381dcb09d5029d14897e55f98031fca5
-    fullPath: E:\Unity\salad-chef\Library\metadata\38\381dcb09d5029d14897e55f98031fca5
-    projectPath: Library\metadata\38\381dcb09d5029d14897e55f98031fca5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\38\381dcb09d5029d14897e55f98031fca5.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\38\381dcb09d5029d14897e55f98031fca5.info
-    projectPath: Library\metadata\38\381dcb09d5029d14897e55f98031fca5.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\39\3997e2241185407d80309a82f9148466
-    fullPath: E:\Unity\salad-chef\Library\metadata\39\3997e2241185407d80309a82f9148466
-    projectPath: Library\metadata\39\3997e2241185407d80309a82f9148466
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\39\3997e2241185407d80309a82f9148466.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\39\3997e2241185407d80309a82f9148466.info
-    projectPath: Library\metadata\39\3997e2241185407d80309a82f9148466.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\3f\3f5b5dff67a942289a9defa416b206f3
-    fullPath: E:\Unity\salad-chef\Library\metadata\3f\3f5b5dff67a942289a9defa416b206f3
-    projectPath: Library\metadata\3f\3f5b5dff67a942289a9defa416b206f3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\3f\3f5b5dff67a942289a9defa416b206f3.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\3f\3f5b5dff67a942289a9defa416b206f3.info
-    projectPath: Library\metadata\3f\3f5b5dff67a942289a9defa416b206f3.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\40\407bc68d299748449bbf7f48ee690f8d
-    fullPath: E:\Unity\salad-chef\Library\metadata\40\407bc68d299748449bbf7f48ee690f8d
-    projectPath: Library\metadata\40\407bc68d299748449bbf7f48ee690f8d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\40\407bc68d299748449bbf7f48ee690f8d.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\40\407bc68d299748449bbf7f48ee690f8d.info
-    projectPath: Library\metadata\40\407bc68d299748449bbf7f48ee690f8d.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\48\48bb5f55d8670e349b6e614913f9d910
-    fullPath: E:\Unity\salad-chef\Library\metadata\48\48bb5f55d8670e349b6e614913f9d910
-    projectPath: Library\metadata\48\48bb5f55d8670e349b6e614913f9d910
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\48\48bb5f55d8670e349b6e614913f9d910.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\48\48bb5f55d8670e349b6e614913f9d910.info
-    projectPath: Library\metadata\48\48bb5f55d8670e349b6e614913f9d910.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\4a\4aecb92fff08436c8303b10eab8da368
-    fullPath: E:\Unity\salad-chef\Library\metadata\4a\4aecb92fff08436c8303b10eab8da368
-    projectPath: Library\metadata\4a\4aecb92fff08436c8303b10eab8da368
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\4a\4aecb92fff08436c8303b10eab8da368.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\4a\4aecb92fff08436c8303b10eab8da368.info
-    projectPath: Library\metadata\4a\4aecb92fff08436c8303b10eab8da368.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\51\512a49d95c0c4332bdd98131869c23c9
-    fullPath: E:\Unity\salad-chef\Library\metadata\51\512a49d95c0c4332bdd98131869c23c9
-    projectPath: Library\metadata\51\512a49d95c0c4332bdd98131869c23c9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\51\512a49d95c0c4332bdd98131869c23c9.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\51\512a49d95c0c4332bdd98131869c23c9.info
-    projectPath: Library\metadata\51\512a49d95c0c4332bdd98131869c23c9.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\63\631b4cb9b7569d24487434f58c5230b6
-    fullPath: E:\Unity\salad-chef\Library\metadata\63\631b4cb9b7569d24487434f58c5230b6
-    projectPath: Library\metadata\63\631b4cb9b7569d24487434f58c5230b6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\63\631b4cb9b7569d24487434f58c5230b6.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\63\631b4cb9b7569d24487434f58c5230b6.info
-    projectPath: Library\metadata\63\631b4cb9b7569d24487434f58c5230b6.info
+  - path: Library\metadata\49\49f5c13a1dce547438bd1f903200c5b2.info
+    fullPath: E:\Unity\salad-chef\Library\metadata\49\49f5c13a1dce547438bd1f903200c5b2.info
+    projectPath: Library\metadata\49\49f5c13a1dce547438bd1f903200c5b2.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -864,161 +267,29 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Library\metadata\67\67b713f8c5943fa43ac7d38212003c62
     projectPath: Library\metadata\67\67b713f8c5943fa43ac7d38212003c62
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\67\67b713f8c5943fa43ac7d38212003c62.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\67\67b713f8c5943fa43ac7d38212003c62.info
-    projectPath: Library\metadata\67\67b713f8c5943fa43ac7d38212003c62.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6
-    fullPath: E:\Unity\salad-chef\Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6
-    projectPath: Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6.info
-    projectPath: Library\metadata\68\68e6db2ebdc24f95958faec2be5558d6.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\6a\6ab70aee4d56447429c680537fbf93ed
-    fullPath: E:\Unity\salad-chef\Library\metadata\6a\6ab70aee4d56447429c680537fbf93ed
-    projectPath: Library\metadata\6a\6ab70aee4d56447429c680537fbf93ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\6a\6ab70aee4d56447429c680537fbf93ed.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\6a\6ab70aee4d56447429c680537fbf93ed.info
-    projectPath: Library\metadata\6a\6ab70aee4d56447429c680537fbf93ed.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\6b\6bb2005fd4eb31e46be80c44ce2dd05f
-    fullPath: E:\Unity\salad-chef\Library\metadata\6b\6bb2005fd4eb31e46be80c44ce2dd05f
-    projectPath: Library\metadata\6b\6bb2005fd4eb31e46be80c44ce2dd05f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\6b\6bb2005fd4eb31e46be80c44ce2dd05f.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\6b\6bb2005fd4eb31e46be80c44ce2dd05f.info
-    projectPath: Library\metadata\6b\6bb2005fd4eb31e46be80c44ce2dd05f.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c
-    fullPath: E:\Unity\salad-chef\Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c
-    projectPath: Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c.info
-    projectPath: Library\metadata\6e\6e59c59b81ab47f9b6ec5781fa725d2c.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\73\731f1baa9d144a9897cb1d341c2092b8
-    fullPath: E:\Unity\salad-chef\Library\metadata\73\731f1baa9d144a9897cb1d341c2092b8
-    projectPath: Library\metadata\73\731f1baa9d144a9897cb1d341c2092b8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\73\731f1baa9d144a9897cb1d341c2092b8.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\73\731f1baa9d144a9897cb1d341c2092b8.info
-    projectPath: Library\metadata\73\731f1baa9d144a9897cb1d341c2092b8.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\77\77c6b107343903d47bc909713b94d675
-    fullPath: E:\Unity\salad-chef\Library\metadata\77\77c6b107343903d47bc909713b94d675
-    projectPath: Library\metadata\77\77c6b107343903d47bc909713b94d675
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\77\77c6b107343903d47bc909713b94d675.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\77\77c6b107343903d47bc909713b94d675.info
-    projectPath: Library\metadata\77\77c6b107343903d47bc909713b94d675.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\79\79459efec17a4d00a321bdcc27bbc385
-    fullPath: E:\Unity\salad-chef\Library\metadata\79\79459efec17a4d00a321bdcc27bbc385
-    projectPath: Library\metadata\79\79459efec17a4d00a321bdcc27bbc385
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\79\79459efec17a4d00a321bdcc27bbc385.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\79\79459efec17a4d00a321bdcc27bbc385.info
-    projectPath: Library\metadata\79\79459efec17a4d00a321bdcc27bbc385.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\85\85187c2149c549c5b33f0cdb02836b17
-    fullPath: E:\Unity\salad-chef\Library\metadata\85\85187c2149c549c5b33f0cdb02836b17
-    projectPath: Library\metadata\85\85187c2149c549c5b33f0cdb02836b17
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\85\85187c2149c549c5b33f0cdb02836b17.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\85\85187c2149c549c5b33f0cdb02836b17.info
-    projectPath: Library\metadata\85\85187c2149c549c5b33f0cdb02836b17.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
     fullPath: E:\Unity\salad-chef\Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
     projectPath: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
     fullPath: E:\Unity\salad-chef\Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
     projectPath: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\8e\8e7af475276b8394eba64a6d488b94e4
-    fullPath: E:\Unity\salad-chef\Library\metadata\8e\8e7af475276b8394eba64a6d488b94e4
-    projectPath: Library\metadata\8e\8e7af475276b8394eba64a6d488b94e4
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\8e\8e90a4bb8f5f9dd49b34a4e4760fa167
+    fullPath: E:\Unity\salad-chef\Library\metadata\8e\8e90a4bb8f5f9dd49b34a4e4760fa167
+    projectPath: Library\metadata\8e\8e90a4bb8f5f9dd49b34a4e4760fa167
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\8e\8e7af475276b8394eba64a6d488b94e4.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\8e\8e7af475276b8394eba64a6d488b94e4.info
-    projectPath: Library\metadata\8e\8e7af475276b8394eba64a6d488b94e4.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\8e\8e7e8f5a82a3a134e91c54efd2274ea9
-    fullPath: E:\Unity\salad-chef\Library\metadata\8e\8e7e8f5a82a3a134e91c54efd2274ea9
-    projectPath: Library\metadata\8e\8e7e8f5a82a3a134e91c54efd2274ea9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\8e\8e7e8f5a82a3a134e91c54efd2274ea9.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\8e\8e7e8f5a82a3a134e91c54efd2274ea9.info
-    projectPath: Library\metadata\8e\8e7e8f5a82a3a134e91c54efd2274ea9.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\8f\8f05276190cf498a8153f6cbe761d4e6
-    fullPath: E:\Unity\salad-chef\Library\metadata\8f\8f05276190cf498a8153f6cbe761d4e6
-    projectPath: Library\metadata\8f\8f05276190cf498a8153f6cbe761d4e6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\8f\8f05276190cf498a8153f6cbe761d4e6.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\8f\8f05276190cf498a8153f6cbe761d4e6.info
-    projectPath: Library\metadata\8f\8f05276190cf498a8153f6cbe761d4e6.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee
-    fullPath: E:\Unity\salad-chef\Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee
-    projectPath: Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee
+  - path: Library\metadata\8e\8e90a4bb8f5f9dd49b34a4e4760fa167.info
+    fullPath: E:\Unity\salad-chef\Library\metadata\8e\8e90a4bb8f5f9dd49b34a4e4760fa167.info
+    projectPath: Library\metadata\8e\8e90a4bb8f5f9dd49b34a4e4760fa167.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1026,41 +297,29 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee.info
     projectPath: Library\metadata\8f\8f586378b4e144a9851e7b34d9b748ee.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\99\99f836c9cb9345dba2e72c4a1f2d0695
-    fullPath: E:\Unity\salad-chef\Library\metadata\99\99f836c9cb9345dba2e72c4a1f2d0695
-    projectPath: Library\metadata\99\99f836c9cb9345dba2e72c4a1f2d0695
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\99\99f836c9cb9345dba2e72c4a1f2d0695.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\99\99f836c9cb9345dba2e72c4a1f2d0695.info
-    projectPath: Library\metadata\99\99f836c9cb9345dba2e72c4a1f2d0695.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1
-    fullPath: E:\Unity\salad-chef\Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1
-    projectPath: Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1.info
-    projectPath: Library\metadata\a0\a02a7d8c237544f1962732b55a9aebf1.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\metadata\a2\a23a3858d24f53442b9488644ab05531
     fullPath: E:\Unity\salad-chef\Library\metadata\a2\a23a3858d24f53442b9488644ab05531
     projectPath: Library\metadata\a2\a23a3858d24f53442b9488644ab05531
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\metadata\a2\a23a3858d24f53442b9488644ab05531.info
     fullPath: E:\Unity\salad-chef\Library\metadata\a2\a23a3858d24f53442b9488644ab05531.info
     projectPath: Library\metadata\a2\a23a3858d24f53442b9488644ab05531.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\a3\a3023958ed9f4f646b7884163d217cde
+    fullPath: E:\Unity\salad-chef\Library\metadata\a3\a3023958ed9f4f646b7884163d217cde
+    projectPath: Library\metadata\a3\a3023958ed9f4f646b7884163d217cde
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\a3\a3023958ed9f4f646b7884163d217cde.info
+    fullPath: E:\Unity\salad-chef\Library\metadata\a3\a3023958ed9f4f646b7884163d217cde.info
+    projectPath: Library\metadata\a3\a3023958ed9f4f646b7884163d217cde.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1070,27 +329,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791
-    fullPath: E:\Unity\salad-chef\Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791
-    projectPath: Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791
+  - path: Library\metadata\b4\b40e1db115ec6f844bcaac60ee9e90fa
+    fullPath: E:\Unity\salad-chef\Library\metadata\b4\b40e1db115ec6f844bcaac60ee9e90fa
+    projectPath: Library\metadata\b4\b40e1db115ec6f844bcaac60ee9e90fa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791.info
-    projectPath: Library\metadata\bc\bc1ede39bf3643ee8e493720e4259791.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\c4\c41005c129ba4d66911b75229fd70b45
-    fullPath: E:\Unity\salad-chef\Library\metadata\c4\c41005c129ba4d66911b75229fd70b45
-    projectPath: Library\metadata\c4\c41005c129ba4d66911b75229fd70b45
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\c4\c41005c129ba4d66911b75229fd70b45.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\c4\c41005c129ba4d66911b75229fd70b45.info
-    projectPath: Library\metadata\c4\c41005c129ba4d66911b75229fd70b45.info
+  - path: Library\metadata\b4\b40e1db115ec6f844bcaac60ee9e90fa.info
+    fullPath: E:\Unity\salad-chef\Library\metadata\b4\b40e1db115ec6f844bcaac60ee9e90fa.info
+    projectPath: Library\metadata\b4\b40e1db115ec6f844bcaac60ee9e90fa.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1098,47 +345,35 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Library\metadata\c5\c551764d2959d7a49845afc28a57d601
     projectPath: Library\metadata\c5\c551764d2959d7a49845afc28a57d601
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\metadata\c5\c551764d2959d7a49845afc28a57d601.info
     fullPath: E:\Unity\salad-chef\Library\metadata\c5\c551764d2959d7a49845afc28a57d601.info
     projectPath: Library\metadata\c5\c551764d2959d7a49845afc28a57d601.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\metadata\cd\cd84529563d71df49beba7ccb4f123a7
     fullPath: E:\Unity\salad-chef\Library\metadata\cd\cd84529563d71df49beba7ccb4f123a7
     projectPath: Library\metadata\cd\cd84529563d71df49beba7ccb4f123a7
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\metadata\cd\cd84529563d71df49beba7ccb4f123a7.info
     fullPath: E:\Unity\salad-chef\Library\metadata\cd\cd84529563d71df49beba7ccb4f123a7.info
     projectPath: Library\metadata\cd\cd84529563d71df49beba7ccb4f123a7.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c
-    fullPath: E:\Unity\salad-chef\Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c
-    projectPath: Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\metadata\d5\d5b5d49a2511b5843889c6a36e8db4e4
+    fullPath: E:\Unity\salad-chef\Library\metadata\d5\d5b5d49a2511b5843889c6a36e8db4e4
+    projectPath: Library\metadata\d5\d5b5d49a2511b5843889c6a36e8db4e4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c.info
-    projectPath: Library\metadata\cf\cf81c85f95fe47e1a27f6ae460cf182c.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\d0\d0603b6d5186471b96c778c3949c7ce2
-    fullPath: E:\Unity\salad-chef\Library\metadata\d0\d0603b6d5186471b96c778c3949c7ce2
-    projectPath: Library\metadata\d0\d0603b6d5186471b96c778c3949c7ce2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\d0\d0603b6d5186471b96c778c3949c7ce2.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\d0\d0603b6d5186471b96c778c3949c7ce2.info
-    projectPath: Library\metadata\d0\d0603b6d5186471b96c778c3949c7ce2.info
+  - path: Library\metadata\d5\d5b5d49a2511b5843889c6a36e8db4e4.info
+    fullPath: E:\Unity\salad-chef\Library\metadata\d5\d5b5d49a2511b5843889c6a36e8db4e4.info
+    projectPath: Library\metadata\d5\d5b5d49a2511b5843889c6a36e8db4e4.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1146,149 +381,17 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Library\metadata\d5\d5dfb9dba9630a84697c9b10175db801
     projectPath: Library\metadata\d5\d5dfb9dba9630a84697c9b10175db801
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Library\metadata\d5\d5dfb9dba9630a84697c9b10175db801.info
     fullPath: E:\Unity\salad-chef\Library\metadata\d5\d5dfb9dba9630a84697c9b10175db801.info
     projectPath: Library\metadata\d5\d5dfb9dba9630a84697c9b10175db801.info
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\d8\d82c1b31c7e74239bff1220585707d2b
-    fullPath: E:\Unity\salad-chef\Library\metadata\d8\d82c1b31c7e74239bff1220585707d2b
-    projectPath: Library\metadata\d8\d82c1b31c7e74239bff1220585707d2b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\d8\d82c1b31c7e74239bff1220585707d2b.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\d8\d82c1b31c7e74239bff1220585707d2b.info
-    projectPath: Library\metadata\d8\d82c1b31c7e74239bff1220585707d2b.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\d9\d930090c0cd643c7b55f19a38538c162
-    fullPath: E:\Unity\salad-chef\Library\metadata\d9\d930090c0cd643c7b55f19a38538c162
-    projectPath: Library\metadata\d9\d930090c0cd643c7b55f19a38538c162
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\d9\d930090c0cd643c7b55f19a38538c162.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\d9\d930090c0cd643c7b55f19a38538c162.info
-    projectPath: Library\metadata\d9\d930090c0cd643c7b55f19a38538c162.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\dd\dd89cf5b9246416f84610a006f916af7
-    fullPath: E:\Unity\salad-chef\Library\metadata\dd\dd89cf5b9246416f84610a006f916af7
-    projectPath: Library\metadata\dd\dd89cf5b9246416f84610a006f916af7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\dd\dd89cf5b9246416f84610a006f916af7.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\dd\dd89cf5b9246416f84610a006f916af7.info
-    projectPath: Library\metadata\dd\dd89cf5b9246416f84610a006f916af7.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\df\dffef66376be4fa480fb02b19edbe903
-    fullPath: E:\Unity\salad-chef\Library\metadata\df\dffef66376be4fa480fb02b19edbe903
-    projectPath: Library\metadata\df\dffef66376be4fa480fb02b19edbe903
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
-    projectPath: Library\metadata\df\dffef66376be4fa480fb02b19edbe903.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\e3\e3265ab4bf004d28a9537516768c1c75
-    fullPath: E:\Unity\salad-chef\Library\metadata\e3\e3265ab4bf004d28a9537516768c1c75
-    projectPath: Library\metadata\e3\e3265ab4bf004d28a9537516768c1c75
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\e3\e3265ab4bf004d28a9537516768c1c75.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\e3\e3265ab4bf004d28a9537516768c1c75.info
-    projectPath: Library\metadata\e3\e3265ab4bf004d28a9537516768c1c75.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\e7\e73a58f6e2794ae7b1b7e50b7fb811b0
-    fullPath: E:\Unity\salad-chef\Library\metadata\e7\e73a58f6e2794ae7b1b7e50b7fb811b0
-    projectPath: Library\metadata\e7\e73a58f6e2794ae7b1b7e50b7fb811b0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\e7\e73a58f6e2794ae7b1b7e50b7fb811b0.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\e7\e73a58f6e2794ae7b1b7e50b7fb811b0.info
-    projectPath: Library\metadata\e7\e73a58f6e2794ae7b1b7e50b7fb811b0.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\f5\f54d1bd14bd3ca042bd867b519fee8cc
-    fullPath: E:\Unity\salad-chef\Library\metadata\f5\f54d1bd14bd3ca042bd867b519fee8cc
-    projectPath: Library\metadata\f5\f54d1bd14bd3ca042bd867b519fee8cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\f5\f54d1bd14bd3ca042bd867b519fee8cc.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\f5\f54d1bd14bd3ca042bd867b519fee8cc.info
-    projectPath: Library\metadata\f5\f54d1bd14bd3ca042bd867b519fee8cc.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d
-    fullPath: E:\Unity\salad-chef\Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d
-    projectPath: Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d.info
-    projectPath: Library\metadata\f7\f7ada0af4f174f0694ca6a487b8f543d.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\f9\f952c082cb03451daed3ee968ac6c63e
-    fullPath: E:\Unity\salad-chef\Library\metadata\f9\f952c082cb03451daed3ee968ac6c63e
-    projectPath: Library\metadata\f9\f952c082cb03451daed3ee968ac6c63e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\f9\f952c082cb03451daed3ee968ac6c63e.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\f9\f952c082cb03451daed3ee968ac6c63e.info
-    projectPath: Library\metadata\f9\f952c082cb03451daed3ee968ac6c63e.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\fa\fade42e8bc714b018fac513c043d323b
-    fullPath: E:\Unity\salad-chef\Library\metadata\fa\fade42e8bc714b018fac513c043d323b
-    projectPath: Library\metadata\fa\fade42e8bc714b018fac513c043d323b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\fa\fade42e8bc714b018fac513c043d323b.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\fa\fade42e8bc714b018fac513c043d323b.info
-    projectPath: Library\metadata\fa\fade42e8bc714b018fac513c043d323b.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4
-    fullPath: E:\Unity\salad-chef\Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4
-    projectPath: Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4.info
-    projectPath: Library\metadata\fe\fe393ace9b354375a9cb14cdbbc28be4.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ProjectSettings.asset
-    fullPath: E:\Unity\salad-chef\Library\ProjectSettings.asset
-    projectPath: Library\ProjectSettings.asset
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\SceneVisibilityState.asset
+    fullPath: E:\Unity\salad-chef\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1304,219 +407,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptMapper
-    fullPath: E:\Unity\salad-chef\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\0\04f0f4c3345fc847cb07662db9abc054.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\0\04f0f4c3345fc847cb07662db9abc054.bin
-    projectPath: Library\ShaderCache\0\04f0f4c3345fc847cb07662db9abc054.bin
+  - path: Library\ShaderCache\0\037b5fcab6e4228bb3cd1bcc9ea8e211.bin
+    fullPath: E:\Unity\salad-chef\Library\ShaderCache\0\037b5fcab6e4228bb3cd1bcc9ea8e211.bin
+    projectPath: Library\ShaderCache\0\037b5fcab6e4228bb3cd1bcc9ea8e211.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\0\059fe15614fc21bbffca4e786aa7c7d4.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\0\059fe15614fc21bbffca4e786aa7c7d4.bin
-    projectPath: Library\ShaderCache\0\059fe15614fc21bbffca4e786aa7c7d4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\096ac48576b298dffd8b9c89d01f3e95.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\0\096ac48576b298dffd8b9c89d01f3e95.bin
-    projectPath: Library\ShaderCache\0\096ac48576b298dffd8b9c89d01f3e95.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1610a017c8307e8f424f3dac2401dd5d.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\1\1610a017c8307e8f424f3dac2401dd5d.bin
-    projectPath: Library\ShaderCache\1\1610a017c8307e8f424f3dac2401dd5d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1634cc0b19ae35884c4f693c577f6628.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\1\1634cc0b19ae35884c4f693c577f6628.bin
-    projectPath: Library\ShaderCache\1\1634cc0b19ae35884c4f693c577f6628.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\1c014959408e045481bc4b3c0811b0bf.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\1\1c014959408e045481bc4b3c0811b0bf.bin
-    projectPath: Library\ShaderCache\1\1c014959408e045481bc4b3c0811b0bf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\26ba8f2fd05dc35f605293e2fce8843d.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\2\26ba8f2fd05dc35f605293e2fce8843d.bin
-    projectPath: Library\ShaderCache\2\26ba8f2fd05dc35f605293e2fce8843d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\278f5b306262fa22ebe79cb997b7a3bb.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\2\278f5b306262fa22ebe79cb997b7a3bb.bin
-    projectPath: Library\ShaderCache\2\278f5b306262fa22ebe79cb997b7a3bb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2965884f0a9d5f3baa5cda43357e737c.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\2\2965884f0a9d5f3baa5cda43357e737c.bin
-    projectPath: Library\ShaderCache\2\2965884f0a9d5f3baa5cda43357e737c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2a9f5443b22d21057e4920687ba64da5.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\2\2a9f5443b22d21057e4920687ba64da5.bin
-    projectPath: Library\ShaderCache\2\2a9f5443b22d21057e4920687ba64da5.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2c521fc09202bcaa7a48f4f49ce467da.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\2\2c521fc09202bcaa7a48f4f49ce467da.bin
-    projectPath: Library\ShaderCache\2\2c521fc09202bcaa7a48f4f49ce467da.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2dd8da7c76f7b17c1cc62ee5b390f3e8.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\2\2dd8da7c76f7b17c1cc62ee5b390f3e8.bin
-    projectPath: Library\ShaderCache\2\2dd8da7c76f7b17c1cc62ee5b390f3e8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\388b26a77a68d95d6ea2548ec19582ba.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\3\388b26a77a68d95d6ea2548ec19582ba.bin
-    projectPath: Library\ShaderCache\3\388b26a77a68d95d6ea2548ec19582ba.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\44ec77e2f086a61d135f75bf4ecbbfb2.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\4\44ec77e2f086a61d135f75bf4ecbbfb2.bin
-    projectPath: Library\ShaderCache\4\44ec77e2f086a61d135f75bf4ecbbfb2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\49a5e91d8226c809e61e06b36deb608a.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\4\49a5e91d8226c809e61e06b36deb608a.bin
-    projectPath: Library\ShaderCache\4\49a5e91d8226c809e61e06b36deb608a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4ae5d57049f90cfb6872ee245003def8.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\4\4ae5d57049f90cfb6872ee245003def8.bin
-    projectPath: Library\ShaderCache\4\4ae5d57049f90cfb6872ee245003def8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5041695960a83a246b10c87e055b764c.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\5\5041695960a83a246b10c87e055b764c.bin
-    projectPath: Library\ShaderCache\5\5041695960a83a246b10c87e055b764c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5461022909c254693071ac62c586cf60.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\5\5461022909c254693071ac62c586cf60.bin
-    projectPath: Library\ShaderCache\5\5461022909c254693071ac62c586cf60.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\626351d68e83f91936377d8e3cde3043.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\6\626351d68e83f91936377d8e3cde3043.bin
-    projectPath: Library\ShaderCache\6\626351d68e83f91936377d8e3cde3043.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6a20dd2d38776b68d835fb68e1e41bbc.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\6\6a20dd2d38776b68d835fb68e1e41bbc.bin
-    projectPath: Library\ShaderCache\6\6a20dd2d38776b68d835fb68e1e41bbc.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6a388780225dcd5c93f2a452f08cea77.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\6\6a388780225dcd5c93f2a452f08cea77.bin
-    projectPath: Library\ShaderCache\6\6a388780225dcd5c93f2a452f08cea77.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6a3bb5ba25d562a9a198f553b4253541.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\6\6a3bb5ba25d562a9a198f553b4253541.bin
-    projectPath: Library\ShaderCache\6\6a3bb5ba25d562a9a198f553b4253541.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\8a735547d95bc99125c28b1ab62ba3a7.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\8\8a735547d95bc99125c28b1ab62ba3a7.bin
-    projectPath: Library\ShaderCache\8\8a735547d95bc99125c28b1ab62ba3a7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\8b53162338ab4810b78245352dbb694c.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\8\8b53162338ab4810b78245352dbb694c.bin
-    projectPath: Library\ShaderCache\8\8b53162338ab4810b78245352dbb694c.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9472d8a3112b64666fa4a09ebd4878d6.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\9\9472d8a3112b64666fa4a09ebd4878d6.bin
-    projectPath: Library\ShaderCache\9\9472d8a3112b64666fa4a09ebd4878d6.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\96876599a14876c88e12b561533506cb.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\9\96876599a14876c88e12b561533506cb.bin
-    projectPath: Library\ShaderCache\9\96876599a14876c88e12b561533506cb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9d294d53d7e9b4aa67ac23f5d7b62ab1.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\9\9d294d53d7e9b4aa67ac23f5d7b62ab1.bin
-    projectPath: Library\ShaderCache\9\9d294d53d7e9b4aa67ac23f5d7b62ab1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\a9c51100e04a76b4436fa16976f49e9b.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\a\a9c51100e04a76b4436fa16976f49e9b.bin
-    projectPath: Library\ShaderCache\a\a9c51100e04a76b4436fa16976f49e9b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b1d341168116a808d7c2b815ed0dea70.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\b\b1d341168116a808d7c2b815ed0dea70.bin
-    projectPath: Library\ShaderCache\b\b1d341168116a808d7c2b815ed0dea70.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b6040d71437391c85485826ffdcbe07a.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\b\b6040d71437391c85485826ffdcbe07a.bin
-    projectPath: Library\ShaderCache\b\b6040d71437391c85485826ffdcbe07a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\bf10d4bfa21bd327a2cc556dc1ec5c87.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\b\bf10d4bfa21bd327a2cc556dc1ec5c87.bin
-    projectPath: Library\ShaderCache\b\bf10d4bfa21bd327a2cc556dc1ec5c87.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\c933ab7a79313e9bf64d01f325318f35.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\c\c933ab7a79313e9bf64d01f325318f35.bin
-    projectPath: Library\ShaderCache\c\c933ab7a79313e9bf64d01f325318f35.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\c\ce4198b4ef629803ccdb19eaa224dd0f.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\c\ce4198b4ef629803ccdb19eaa224dd0f.bin
-    projectPath: Library\ShaderCache\c\ce4198b4ef629803ccdb19eaa224dd0f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\e92936f921d9549883c597061712f55e.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\e\e92936f921d9549883c597061712f55e.bin
-    projectPath: Library\ShaderCache\e\e92936f921d9549883c597061712f55e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\ec1a26e2bddf1ff3cc1ef73ddeb31b8b.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\e\ec1a26e2bddf1ff3cc1ef73ddeb31b8b.bin
-    projectPath: Library\ShaderCache\e\ec1a26e2bddf1ff3cc1ef73ddeb31b8b.bin
+  - path: Library\ShaderCache\c\c9f17f792f3c30ec152be974b89b474a.bin
+    fullPath: E:\Unity\salad-chef\Library\ShaderCache\c\c9f17f792f3c30ec152be974b89b474a.bin
+    projectPath: Library\ShaderCache\c\c9f17f792f3c30ec152be974b89b474a.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1526,12 +425,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\f\f3bd88f5cde3b244e09b0d9f580dc059.bin
-    fullPath: E:\Unity\salad-chef\Library\ShaderCache\f\f3bd88f5cde3b244e09b0d9f580dc059.bin
-    projectPath: Library\ShaderCache\f\f3bd88f5cde3b244e09b0d9f580dc059.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: E:\Unity\salad-chef\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
@@ -1554,23 +447,17 @@ MonoBehaviour:
     fullPath: E:\Unity\salad-chef\Library\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\Hierarchy\ddee89-27bd42f458ebdb7448.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-27bd42f458ebdb7448.json
-    projectPath: Library\StateCache\Hierarchy\ddee89-27bd42f458ebdb7448.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
     fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
     projectPath: Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\Hierarchy\ddee89-c551764d2959d7a498.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-c551764d2959d7a498.json
-    projectPath: Library\StateCache\Hierarchy\ddee89-c551764d2959d7a498.json
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\ddee89-8e90a4bb8f5f9dd49b.json
+    fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-8e90a4bb8f5f9dd49b.json
+    projectPath: Library\StateCache\Hierarchy\ddee89-8e90a4bb8f5f9dd49b.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1580,21 +467,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\StateCache\SceneView\41c2ee-27bd42f458ebdb7448.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-27bd42f458ebdb7448.json
-    projectPath: Library\StateCache\SceneView\41c2ee-27bd42f458ebdb7448.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
-    projectPath: Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\StateCache\SceneView\41c2ee-c551764d2959d7a498.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-c551764d2959d7a498.json
-    projectPath: Library\StateCache\SceneView\41c2ee-c551764d2959d7a498.json
+  - path: Library\StateCache\SceneView\41c2ee-8e90a4bb8f5f9dd49b.json
+    fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-8e90a4bb8f5f9dd49b.json
+    projectPath: Library\StateCache\SceneView\41c2ee-8e90a4bb8f5f9dd49b.json
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1604,24 +479,78 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: E:\Unity\salad-chef\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
+  - path: obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
+    fullPath: E:\Unity\salad-chef\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
+    projectPath: obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.CollabProxy.Editor.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\Unity.CollabProxy.Editor.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Unity.CollabProxy.Editor.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Unity.TextMeshPro.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\Unity.Timeline.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\Unity.Timeline.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Unity.Timeline.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\UnityEditor.TestRunner.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\UnityEditor.TestRunner.csprojAssemblyReference.cache
+    projectPath: obj\Debug\UnityEditor.TestRunner.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\UnityEditor.UI.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\UnityEditor.UI.csprojAssemblyReference.cache
+    projectPath: obj\Debug\UnityEditor.UI.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: obj\Debug\UnityEngine.TestRunner.csprojAssemblyReference.cache
+    fullPath: E:\Unity\salad-chef\obj\Debug\UnityEngine.TestRunner.csprojAssemblyReference.cache
+    projectPath: obj\Debug\UnityEngine.TestRunner.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ProjectSettings\EditorBuildSettings.asset
+    fullPath: E:\Unity\salad-chef\ProjectSettings\EditorBuildSettings.asset
+    projectPath: ProjectSettings\EditorBuildSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: E:\Unity\salad-chef\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
+  - path: salad-chef.sln
+    fullPath: E:\Unity\salad-chef\salad-chef.sln
+    projectPath: salad-chef.sln
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: E:\Unity\salad-chef\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
+    indexStatus: 1
+    workTreeStatus: 1
   - path: Temp\__Backupscenes\0.backup
     fullPath: E:\Unity\salad-chef\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
@@ -1634,867 +563,369 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-01da3c399e32b514fbbbecefe11491c2
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-01da3c399e32b514fbbbecefe11491c2
-    projectPath: Temp\UnityTempFile-01da3c399e32b514fbbbecefe11491c2
+  - path: Temp\UnityTempFile-094dca76d01ee0e4fa238c26a6729ba8
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-094dca76d01ee0e4fa238c26a6729ba8
+    projectPath: Temp\UnityTempFile-094dca76d01ee0e4fa238c26a6729ba8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-026d9b80f13ea3d4591dd2cc42f5b294
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-026d9b80f13ea3d4591dd2cc42f5b294
-    projectPath: Temp\UnityTempFile-026d9b80f13ea3d4591dd2cc42f5b294
+  - path: Temp\UnityTempFile-0cd28c2c9ae403346a2c1e09f77142c7
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-0cd28c2c9ae403346a2c1e09f77142c7
+    projectPath: Temp\UnityTempFile-0cd28c2c9ae403346a2c1e09f77142c7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-02704aba34e65e446b6178d5616bdf0a
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-02704aba34e65e446b6178d5616bdf0a
-    projectPath: Temp\UnityTempFile-02704aba34e65e446b6178d5616bdf0a
+  - path: Temp\UnityTempFile-0ffb0d3412b890c4fa61d8ac26d3b573
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-0ffb0d3412b890c4fa61d8ac26d3b573
+    projectPath: Temp\UnityTempFile-0ffb0d3412b890c4fa61d8ac26d3b573
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-037aceab4f5bf834ca8c5bd8812270a7
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-037aceab4f5bf834ca8c5bd8812270a7
-    projectPath: Temp\UnityTempFile-037aceab4f5bf834ca8c5bd8812270a7
+  - path: Temp\UnityTempFile-1ea4169ef0100ff4fb27cde9e206a0d9
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1ea4169ef0100ff4fb27cde9e206a0d9
+    projectPath: Temp\UnityTempFile-1ea4169ef0100ff4fb27cde9e206a0d9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-061ced0b150b3c64e8f9aa4e2d762265
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-061ced0b150b3c64e8f9aa4e2d762265
-    projectPath: Temp\UnityTempFile-061ced0b150b3c64e8f9aa4e2d762265
+  - path: Temp\UnityTempFile-20db04a8d2de5614bad20a9f2a1799cf
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-20db04a8d2de5614bad20a9f2a1799cf
+    projectPath: Temp\UnityTempFile-20db04a8d2de5614bad20a9f2a1799cf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-066d2615a95a34b4cbd6ac076ee3a623
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-066d2615a95a34b4cbd6ac076ee3a623
-    projectPath: Temp\UnityTempFile-066d2615a95a34b4cbd6ac076ee3a623
+  - path: Temp\UnityTempFile-2a070ccde8a065a479d9180a51d6febc
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-2a070ccde8a065a479d9180a51d6febc
+    projectPath: Temp\UnityTempFile-2a070ccde8a065a479d9180a51d6febc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-068b252b13fd7c14f90325ae830420f5
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-068b252b13fd7c14f90325ae830420f5
-    projectPath: Temp\UnityTempFile-068b252b13fd7c14f90325ae830420f5
+  - path: Temp\UnityTempFile-2aa5881b28889cf44afe913021c0d20b
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-2aa5881b28889cf44afe913021c0d20b
+    projectPath: Temp\UnityTempFile-2aa5881b28889cf44afe913021c0d20b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-06a745cf98b4abf47b4a191ff7650493
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-06a745cf98b4abf47b4a191ff7650493
-    projectPath: Temp\UnityTempFile-06a745cf98b4abf47b4a191ff7650493
+  - path: Temp\UnityTempFile-3d05991607f0cdd4f87e1be66ba98237
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-3d05991607f0cdd4f87e1be66ba98237
+    projectPath: Temp\UnityTempFile-3d05991607f0cdd4f87e1be66ba98237
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-07cf33d16bf0617499b3d3441a86b6f6
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-07cf33d16bf0617499b3d3441a86b6f6
-    projectPath: Temp\UnityTempFile-07cf33d16bf0617499b3d3441a86b6f6
+  - path: Temp\UnityTempFile-401e45f8dfa22bb4c997a5c03699a517
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-401e45f8dfa22bb4c997a5c03699a517
+    projectPath: Temp\UnityTempFile-401e45f8dfa22bb4c997a5c03699a517
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-096324c4207295b4cbb6f0893e0bb30d
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-096324c4207295b4cbb6f0893e0bb30d
-    projectPath: Temp\UnityTempFile-096324c4207295b4cbb6f0893e0bb30d
+  - path: Temp\UnityTempFile-412f4c66f71301b418498d494010b19c
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-412f4c66f71301b418498d494010b19c
+    projectPath: Temp\UnityTempFile-412f4c66f71301b418498d494010b19c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0c808a3bc9b8eb347871bf04b72cb815
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-0c808a3bc9b8eb347871bf04b72cb815
-    projectPath: Temp\UnityTempFile-0c808a3bc9b8eb347871bf04b72cb815
+  - path: Temp\UnityTempFile-4266515b41e6f37439b92a5810c151ff
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-4266515b41e6f37439b92a5810c151ff
+    projectPath: Temp\UnityTempFile-4266515b41e6f37439b92a5810c151ff
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-0d31253efb118a847af96f8c8a854abd
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-0d31253efb118a847af96f8c8a854abd
-    projectPath: Temp\UnityTempFile-0d31253efb118a847af96f8c8a854abd
+  - path: Temp\UnityTempFile-43a033e1b177a4048adc496fb978df84
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-43a033e1b177a4048adc496fb978df84
+    projectPath: Temp\UnityTempFile-43a033e1b177a4048adc496fb978df84
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1089c3760c6098e4fa3baa4f3cf3a973
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1089c3760c6098e4fa3baa4f3cf3a973
-    projectPath: Temp\UnityTempFile-1089c3760c6098e4fa3baa4f3cf3a973
+  - path: Temp\UnityTempFile-4489e25de4489bb41ad10650575d803e
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-4489e25de4489bb41ad10650575d803e
+    projectPath: Temp\UnityTempFile-4489e25de4489bb41ad10650575d803e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-10f4866e40f13cd40ac3daf47ba95539
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-10f4866e40f13cd40ac3daf47ba95539
-    projectPath: Temp\UnityTempFile-10f4866e40f13cd40ac3daf47ba95539
+  - path: Temp\UnityTempFile-4e0b871ea37303d4c861477219a5fc2a
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-4e0b871ea37303d4c861477219a5fc2a
+    projectPath: Temp\UnityTempFile-4e0b871ea37303d4c861477219a5fc2a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-12e60e809c5c5c94689c610bbca895eb
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-12e60e809c5c5c94689c610bbca895eb
-    projectPath: Temp\UnityTempFile-12e60e809c5c5c94689c610bbca895eb
+  - path: Temp\UnityTempFile-50831d329bd5f1745a7fd2cc232bd447
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-50831d329bd5f1745a7fd2cc232bd447
+    projectPath: Temp\UnityTempFile-50831d329bd5f1745a7fd2cc232bd447
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1481dc4c23f9a764da65cb42491fdb0a
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1481dc4c23f9a764da65cb42491fdb0a
-    projectPath: Temp\UnityTempFile-1481dc4c23f9a764da65cb42491fdb0a
+  - path: Temp\UnityTempFile-5653f108a9c108744b911426223a0592
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-5653f108a9c108744b911426223a0592
+    projectPath: Temp\UnityTempFile-5653f108a9c108744b911426223a0592
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1502585eaa56d9f41a88e7c5c7c02273
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1502585eaa56d9f41a88e7c5c7c02273
-    projectPath: Temp\UnityTempFile-1502585eaa56d9f41a88e7c5c7c02273
+  - path: Temp\UnityTempFile-5b00b8ef3c8bd5346a5ce081f4579a93
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-5b00b8ef3c8bd5346a5ce081f4579a93
+    projectPath: Temp\UnityTempFile-5b00b8ef3c8bd5346a5ce081f4579a93
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-150b28101ed7a8040b73341b40bb9684
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-150b28101ed7a8040b73341b40bb9684
-    projectPath: Temp\UnityTempFile-150b28101ed7a8040b73341b40bb9684
+  - path: Temp\UnityTempFile-67cdc0f7eb2af7b4a9d63741f0f0f80e
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-67cdc0f7eb2af7b4a9d63741f0f0f80e
+    projectPath: Temp\UnityTempFile-67cdc0f7eb2af7b4a9d63741f0f0f80e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-171478eb5800d2c46b03aca00d0d2d74
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-171478eb5800d2c46b03aca00d0d2d74
-    projectPath: Temp\UnityTempFile-171478eb5800d2c46b03aca00d0d2d74
+  - path: Temp\UnityTempFile-6c57ee3dd0b2b7c44ad4cf17de3be2ac
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-6c57ee3dd0b2b7c44ad4cf17de3be2ac
+    projectPath: Temp\UnityTempFile-6c57ee3dd0b2b7c44ad4cf17de3be2ac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1aa2321506f483a48a9824ecb6d10180
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1aa2321506f483a48a9824ecb6d10180
-    projectPath: Temp\UnityTempFile-1aa2321506f483a48a9824ecb6d10180
+  - path: Temp\UnityTempFile-6e49fd39d34ea8147bd003b545b4cfc3
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-6e49fd39d34ea8147bd003b545b4cfc3
+    projectPath: Temp\UnityTempFile-6e49fd39d34ea8147bd003b545b4cfc3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1be8eab4241687c4681e7b9868f208b5
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1be8eab4241687c4681e7b9868f208b5
-    projectPath: Temp\UnityTempFile-1be8eab4241687c4681e7b9868f208b5
+  - path: Temp\UnityTempFile-76e84c44aeeeba947b9034db4dc20223
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-76e84c44aeeeba947b9034db4dc20223
+    projectPath: Temp\UnityTempFile-76e84c44aeeeba947b9034db4dc20223
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1ccf8af6787227b48a01c41bf7c97f62
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1ccf8af6787227b48a01c41bf7c97f62
-    projectPath: Temp\UnityTempFile-1ccf8af6787227b48a01c41bf7c97f62
+  - path: Temp\UnityTempFile-77c065fd8b04d1644836565545c8ab4d
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-77c065fd8b04d1644836565545c8ab4d
+    projectPath: Temp\UnityTempFile-77c065fd8b04d1644836565545c8ab4d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1ceeca7cbe64d4141853c7c8972379a4
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1ceeca7cbe64d4141853c7c8972379a4
-    projectPath: Temp\UnityTempFile-1ceeca7cbe64d4141853c7c8972379a4
+  - path: Temp\UnityTempFile-81ffc861f0afd484f806e958ac4b601f
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-81ffc861f0afd484f806e958ac4b601f
+    projectPath: Temp\UnityTempFile-81ffc861f0afd484f806e958ac4b601f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1f79860ed8b5fa749b4b0d2d9d3bde68
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-1f79860ed8b5fa749b4b0d2d9d3bde68
-    projectPath: Temp\UnityTempFile-1f79860ed8b5fa749b4b0d2d9d3bde68
+  - path: Temp\UnityTempFile-82988f8748edb5046a165b7ba2a2175d
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-82988f8748edb5046a165b7ba2a2175d
+    projectPath: Temp\UnityTempFile-82988f8748edb5046a165b7ba2a2175d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-204d2649144dfe74eae5cc133e39f6a6
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-204d2649144dfe74eae5cc133e39f6a6
-    projectPath: Temp\UnityTempFile-204d2649144dfe74eae5cc133e39f6a6
+  - path: Temp\UnityTempFile-82f1acce79d452341a85370d8243562d
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-82f1acce79d452341a85370d8243562d
+    projectPath: Temp\UnityTempFile-82f1acce79d452341a85370d8243562d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-20fca64f422041e40bd5b7933465ea48
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-20fca64f422041e40bd5b7933465ea48
-    projectPath: Temp\UnityTempFile-20fca64f422041e40bd5b7933465ea48
+  - path: Temp\UnityTempFile-831db0f24bb5a4f46992888df083f493
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-831db0f24bb5a4f46992888df083f493
+    projectPath: Temp\UnityTempFile-831db0f24bb5a4f46992888df083f493
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-21302233bb22fb7408d219223665d48f
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-21302233bb22fb7408d219223665d48f
-    projectPath: Temp\UnityTempFile-21302233bb22fb7408d219223665d48f
+  - path: Temp\UnityTempFile-842b1b34683c33840ba47b8680b10ebe
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-842b1b34683c33840ba47b8680b10ebe
+    projectPath: Temp\UnityTempFile-842b1b34683c33840ba47b8680b10ebe
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-219548d1a39935d4890103c01550ce93
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-219548d1a39935d4890103c01550ce93
-    projectPath: Temp\UnityTempFile-219548d1a39935d4890103c01550ce93
+  - path: Temp\UnityTempFile-899d01d65c33b564890a0df1090fc0aa
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-899d01d65c33b564890a0df1090fc0aa
+    projectPath: Temp\UnityTempFile-899d01d65c33b564890a0df1090fc0aa
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-22069be9330e3a244a97b8d92be44220
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-22069be9330e3a244a97b8d92be44220
-    projectPath: Temp\UnityTempFile-22069be9330e3a244a97b8d92be44220
+  - path: Temp\UnityTempFile-8c29db8dc9c540b47bec7fe0777248ba
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8c29db8dc9c540b47bec7fe0777248ba
+    projectPath: Temp\UnityTempFile-8c29db8dc9c540b47bec7fe0777248ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-24254479418733d4e80bc5cf1c513a45
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-24254479418733d4e80bc5cf1c513a45
-    projectPath: Temp\UnityTempFile-24254479418733d4e80bc5cf1c513a45
+  - path: Temp\UnityTempFile-8f063a1835588b4488286054eeda374b
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8f063a1835588b4488286054eeda374b
+    projectPath: Temp\UnityTempFile-8f063a1835588b4488286054eeda374b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-27de7d0ba727e1c4394ddcb5fcfcc544
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-27de7d0ba727e1c4394ddcb5fcfcc544
-    projectPath: Temp\UnityTempFile-27de7d0ba727e1c4394ddcb5fcfcc544
+  - path: Temp\UnityTempFile-98255742bf9b9824483c40466a12439f
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-98255742bf9b9824483c40466a12439f
+    projectPath: Temp\UnityTempFile-98255742bf9b9824483c40466a12439f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2bfd414dd11d2ca4d99d48ed0042a38b
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-2bfd414dd11d2ca4d99d48ed0042a38b
-    projectPath: Temp\UnityTempFile-2bfd414dd11d2ca4d99d48ed0042a38b
+  - path: Temp\UnityTempFile-99bc6050d06b6ff46a83981a5dcce6c6
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-99bc6050d06b6ff46a83981a5dcce6c6
+    projectPath: Temp\UnityTempFile-99bc6050d06b6ff46a83981a5dcce6c6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2c0e384481c02164493c2b434c14f005
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-2c0e384481c02164493c2b434c14f005
-    projectPath: Temp\UnityTempFile-2c0e384481c02164493c2b434c14f005
+  - path: Temp\UnityTempFile-9ba8dde6ff4ca4544aaa56e1fd805603
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-9ba8dde6ff4ca4544aaa56e1fd805603
+    projectPath: Temp\UnityTempFile-9ba8dde6ff4ca4544aaa56e1fd805603
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-315499af24741d4439bef46163c31d74
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-315499af24741d4439bef46163c31d74
-    projectPath: Temp\UnityTempFile-315499af24741d4439bef46163c31d74
+  - path: Temp\UnityTempFile-a838e755c1f023843b3c915e12c226d2
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-a838e755c1f023843b3c915e12c226d2
+    projectPath: Temp\UnityTempFile-a838e755c1f023843b3c915e12c226d2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-31678a055391ac8408eb8cef95f1fedd
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-31678a055391ac8408eb8cef95f1fedd
-    projectPath: Temp\UnityTempFile-31678a055391ac8408eb8cef95f1fedd
+  - path: Temp\UnityTempFile-a9ea7ccfd52463046b8db6a65c21a3ba
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-a9ea7ccfd52463046b8db6a65c21a3ba
+    projectPath: Temp\UnityTempFile-a9ea7ccfd52463046b8db6a65c21a3ba
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-39ffb0ab694a96746a55c06d642b7202
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-39ffb0ab694a96746a55c06d642b7202
-    projectPath: Temp\UnityTempFile-39ffb0ab694a96746a55c06d642b7202
+  - path: Temp\UnityTempFile-b173575a9cc6f6b4cb027d8547178be0
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b173575a9cc6f6b4cb027d8547178be0
+    projectPath: Temp\UnityTempFile-b173575a9cc6f6b4cb027d8547178be0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3a2a8f7071f6f5a43b5c0e4042a6a0ae
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-3a2a8f7071f6f5a43b5c0e4042a6a0ae
-    projectPath: Temp\UnityTempFile-3a2a8f7071f6f5a43b5c0e4042a6a0ae
+  - path: Temp\UnityTempFile-b17f938067e7003469c527a9cb3f951f
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b17f938067e7003469c527a9cb3f951f
+    projectPath: Temp\UnityTempFile-b17f938067e7003469c527a9cb3f951f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3d6adac980349bb46ae9e1d6f4a89989
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-3d6adac980349bb46ae9e1d6f4a89989
-    projectPath: Temp\UnityTempFile-3d6adac980349bb46ae9e1d6f4a89989
+  - path: Temp\UnityTempFile-ba48801404854e1409203c505f1b9f19
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ba48801404854e1409203c505f1b9f19
+    projectPath: Temp\UnityTempFile-ba48801404854e1409203c505f1b9f19
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3e7001ce1506ce543a4df8fd108016e5
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-3e7001ce1506ce543a4df8fd108016e5
-    projectPath: Temp\UnityTempFile-3e7001ce1506ce543a4df8fd108016e5
+  - path: Temp\UnityTempFile-c6cb12d3a8a50bc46a7e81e38f82aba6
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-c6cb12d3a8a50bc46a7e81e38f82aba6
+    projectPath: Temp\UnityTempFile-c6cb12d3a8a50bc46a7e81e38f82aba6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-3fd49f48647d43c4ba9151a520503701
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-3fd49f48647d43c4ba9151a520503701
-    projectPath: Temp\UnityTempFile-3fd49f48647d43c4ba9151a520503701
+  - path: Temp\UnityTempFile-c9cfb500ce8c9f347bc5a064010d85a9
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-c9cfb500ce8c9f347bc5a064010d85a9
+    projectPath: Temp\UnityTempFile-c9cfb500ce8c9f347bc5a064010d85a9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-403017287ee39fb43b077fd8b7fccd34
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-403017287ee39fb43b077fd8b7fccd34
-    projectPath: Temp\UnityTempFile-403017287ee39fb43b077fd8b7fccd34
+  - path: Temp\UnityTempFile-cbcf0163cb456d7409e4a95cafbb4e96
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-cbcf0163cb456d7409e4a95cafbb4e96
+    projectPath: Temp\UnityTempFile-cbcf0163cb456d7409e4a95cafbb4e96
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-41324137d196a3b41a06388425feebf8
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-41324137d196a3b41a06388425feebf8
-    projectPath: Temp\UnityTempFile-41324137d196a3b41a06388425feebf8
+  - path: Temp\UnityTempFile-d03fd91ce79ba9440b49e961fa82f44d
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d03fd91ce79ba9440b49e961fa82f44d
+    projectPath: Temp\UnityTempFile-d03fd91ce79ba9440b49e961fa82f44d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-420e5a0701161db47a5b18d91d6fdf19
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-420e5a0701161db47a5b18d91d6fdf19
-    projectPath: Temp\UnityTempFile-420e5a0701161db47a5b18d91d6fdf19
+  - path: Temp\UnityTempFile-d0db29ffedcdf10418581942ae870b56
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d0db29ffedcdf10418581942ae870b56
+    projectPath: Temp\UnityTempFile-d0db29ffedcdf10418581942ae870b56
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-49b1850d1317b434f9b87314638c79d0
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-49b1850d1317b434f9b87314638c79d0
-    projectPath: Temp\UnityTempFile-49b1850d1317b434f9b87314638c79d0
+  - path: Temp\UnityTempFile-dc9f3571c104fe442a9ecd7846c12c8c
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-dc9f3571c104fe442a9ecd7846c12c8c
+    projectPath: Temp\UnityTempFile-dc9f3571c104fe442a9ecd7846c12c8c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-4d2ba12ce0cb02944bef8c07e1454e65
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-4d2ba12ce0cb02944bef8c07e1454e65
-    projectPath: Temp\UnityTempFile-4d2ba12ce0cb02944bef8c07e1454e65
+  - path: Temp\UnityTempFile-e470bbba69a72c942855994000197ef4
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-e470bbba69a72c942855994000197ef4
+    projectPath: Temp\UnityTempFile-e470bbba69a72c942855994000197ef4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-50f689387b7186b4ab3ee1ccb0f8b7a7
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-50f689387b7186b4ab3ee1ccb0f8b7a7
-    projectPath: Temp\UnityTempFile-50f689387b7186b4ab3ee1ccb0f8b7a7
+  - path: Temp\UnityTempFile-f7723bdb23727ce4492647251f7b7804
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f7723bdb23727ce4492647251f7b7804
+    projectPath: Temp\UnityTempFile-f7723bdb23727ce4492647251f7b7804
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5140ceb7c28d2704381bd8ab67f7c2de
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-5140ceb7c28d2704381bd8ab67f7c2de
-    projectPath: Temp\UnityTempFile-5140ceb7c28d2704381bd8ab67f7c2de
+  - path: Temp\UnityTempFile-fcc751e35369f5243b4a44a702ad50e1
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-fcc751e35369f5243b4a44a702ad50e1
+    projectPath: Temp\UnityTempFile-fcc751e35369f5243b4a44a702ad50e1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-52aaff2a4713bdb4aadd524c8fa7c6d5
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-52aaff2a4713bdb4aadd524c8fa7c6d5
-    projectPath: Temp\UnityTempFile-52aaff2a4713bdb4aadd524c8fa7c6d5
+  - path: Temp\UnityTempFile-fd2f3cbc69c79b74cabd43e160fb4994
+    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-fd2f3cbc69c79b74cabd43e160fb4994
+    projectPath: Temp\UnityTempFile-fd2f3cbc69c79b74cabd43e160fb4994
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-52f557bfa9110f346939dcabc3661726
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-52f557bfa9110f346939dcabc3661726
-    projectPath: Temp\UnityTempFile-52f557bfa9110f346939dcabc3661726
+  - path: Unity.2D.Sprite.Editor.csproj
+    fullPath: E:\Unity\salad-chef\Unity.2D.Sprite.Editor.csproj
+    projectPath: Unity.2D.Sprite.Editor.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-57d4e880e30b590438cb54c43fb7d058
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-57d4e880e30b590438cb54c43fb7d058
-    projectPath: Temp\UnityTempFile-57d4e880e30b590438cb54c43fb7d058
+  - path: Unity.2D.Tilemap.Editor.csproj
+    fullPath: E:\Unity\salad-chef\Unity.2D.Tilemap.Editor.csproj
+    projectPath: Unity.2D.Tilemap.Editor.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-58953d029ceea114a86dc6785e42a015
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-58953d029ceea114a86dc6785e42a015
-    projectPath: Temp\UnityTempFile-58953d029ceea114a86dc6785e42a015
+  - path: Unity.CollabProxy.Editor.csproj
+    fullPath: E:\Unity\salad-chef\Unity.CollabProxy.Editor.csproj
+    projectPath: Unity.CollabProxy.Editor.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-59129cf5b6ff44344bf71faa4abb9d55
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-59129cf5b6ff44344bf71faa4abb9d55
-    projectPath: Temp\UnityTempFile-59129cf5b6ff44344bf71faa4abb9d55
+  - path: Unity.Rider.Editor.csproj
+    fullPath: E:\Unity\salad-chef\Unity.Rider.Editor.csproj
+    projectPath: Unity.Rider.Editor.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5a6117f22d1b75648b651065cd462ae9
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-5a6117f22d1b75648b651065cd462ae9
-    projectPath: Temp\UnityTempFile-5a6117f22d1b75648b651065cd462ae9
+  - path: Unity.TextMeshPro.csproj
+    fullPath: E:\Unity\salad-chef\Unity.TextMeshPro.csproj
+    projectPath: Unity.TextMeshPro.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-5e785ca2f79cdf04893935198b8d5f6f
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-5e785ca2f79cdf04893935198b8d5f6f
-    projectPath: Temp\UnityTempFile-5e785ca2f79cdf04893935198b8d5f6f
+  - path: Unity.TextMeshPro.Editor.csproj
+    fullPath: E:\Unity\salad-chef\Unity.TextMeshPro.Editor.csproj
+    projectPath: Unity.TextMeshPro.Editor.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-67f05f988c063a94e81e5d8098c23d81
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-67f05f988c063a94e81e5d8098c23d81
-    projectPath: Temp\UnityTempFile-67f05f988c063a94e81e5d8098c23d81
+  - path: Unity.Timeline.csproj
+    fullPath: E:\Unity\salad-chef\Unity.Timeline.csproj
+    projectPath: Unity.Timeline.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6909235dbcf52ae45a6b5eed59e049fa
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-6909235dbcf52ae45a6b5eed59e049fa
-    projectPath: Temp\UnityTempFile-6909235dbcf52ae45a6b5eed59e049fa
+  - path: Unity.Timeline.Editor.csproj
+    fullPath: E:\Unity\salad-chef\Unity.Timeline.Editor.csproj
+    projectPath: Unity.Timeline.Editor.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-69f348031d294a3479bac597282b0b63
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-69f348031d294a3479bac597282b0b63
-    projectPath: Temp\UnityTempFile-69f348031d294a3479bac597282b0b63
+  - path: Unity.VSCode.Editor.csproj
+    fullPath: E:\Unity\salad-chef\Unity.VSCode.Editor.csproj
+    projectPath: Unity.VSCode.Editor.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-6a620da29b34a624a8cd51824617c6b7
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-6a620da29b34a624a8cd51824617c6b7
-    projectPath: Temp\UnityTempFile-6a620da29b34a624a8cd51824617c6b7
+  - path: UnityEditor.TestRunner.csproj
+    fullPath: E:\Unity\salad-chef\UnityEditor.TestRunner.csproj
+    projectPath: UnityEditor.TestRunner.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-70c789b042620e643b37e4cef0c5d858
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-70c789b042620e643b37e4cef0c5d858
-    projectPath: Temp\UnityTempFile-70c789b042620e643b37e4cef0c5d858
+  - path: UnityEditor.UI.csproj
+    fullPath: E:\Unity\salad-chef\UnityEditor.UI.csproj
+    projectPath: UnityEditor.UI.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-70cc38e7026e5c64290c0aa3cb12f16d
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-70cc38e7026e5c64290c0aa3cb12f16d
-    projectPath: Temp\UnityTempFile-70cc38e7026e5c64290c0aa3cb12f16d
+  - path: UnityEngine.TestRunner.csproj
+    fullPath: E:\Unity\salad-chef\UnityEngine.TestRunner.csproj
+    projectPath: UnityEngine.TestRunner.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-7a335e7a4bdc8c543bb1467f3cb650a6
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-7a335e7a4bdc8c543bb1467f3cb650a6
-    projectPath: Temp\UnityTempFile-7a335e7a4bdc8c543bb1467f3cb650a6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-7c6ebd92c5fad3648a102454e3ed9310
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-7c6ebd92c5fad3648a102454e3ed9310
-    projectPath: Temp\UnityTempFile-7c6ebd92c5fad3648a102454e3ed9310
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-81e2c8517891e0443908f6a210ae0f3d
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-81e2c8517891e0443908f6a210ae0f3d
-    projectPath: Temp\UnityTempFile-81e2c8517891e0443908f6a210ae0f3d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-833c55eba3da1a943b3d74ae0fc6951c
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-833c55eba3da1a943b3d74ae0fc6951c
-    projectPath: Temp\UnityTempFile-833c55eba3da1a943b3d74ae0fc6951c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8713a5c482aa00e4cb05b9fb64c6fc80
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8713a5c482aa00e4cb05b9fb64c6fc80
-    projectPath: Temp\UnityTempFile-8713a5c482aa00e4cb05b9fb64c6fc80
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-881660b72227f8945afc7da377a2b860
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-881660b72227f8945afc7da377a2b860
-    projectPath: Temp\UnityTempFile-881660b72227f8945afc7da377a2b860
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8996ad878e0db744f8beb81f87850f9e
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8996ad878e0db744f8beb81f87850f9e
-    projectPath: Temp\UnityTempFile-8996ad878e0db744f8beb81f87850f9e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8c635c9c8e7b49e4a9a601281ca8924f
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8c635c9c8e7b49e4a9a601281ca8924f
-    projectPath: Temp\UnityTempFile-8c635c9c8e7b49e4a9a601281ca8924f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8c9efd2cca1487644b284304b6b57dee
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8c9efd2cca1487644b284304b6b57dee
-    projectPath: Temp\UnityTempFile-8c9efd2cca1487644b284304b6b57dee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8d53de90977054545a5b0c497d87b115
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8d53de90977054545a5b0c497d87b115
-    projectPath: Temp\UnityTempFile-8d53de90977054545a5b0c497d87b115
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-8f1605c793bb90d4b911d05313983601
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-8f1605c793bb90d4b911d05313983601
-    projectPath: Temp\UnityTempFile-8f1605c793bb90d4b911d05313983601
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-904dd7c63e8ea2a49a3a24fd4cab9fda
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-904dd7c63e8ea2a49a3a24fd4cab9fda
-    projectPath: Temp\UnityTempFile-904dd7c63e8ea2a49a3a24fd4cab9fda
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-911755dbfc2f6014db804e33609c641e
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-911755dbfc2f6014db804e33609c641e
-    projectPath: Temp\UnityTempFile-911755dbfc2f6014db804e33609c641e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-92bf0b4cc3b4d204f9e3189af002e7f2
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-92bf0b4cc3b4d204f9e3189af002e7f2
-    projectPath: Temp\UnityTempFile-92bf0b4cc3b4d204f9e3189af002e7f2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9424068fe13e8a340b49f1cafe34b544
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-9424068fe13e8a340b49f1cafe34b544
-    projectPath: Temp\UnityTempFile-9424068fe13e8a340b49f1cafe34b544
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-97a289ceb8069db4d8d26e5fe89d0b9c
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-97a289ceb8069db4d8d26e5fe89d0b9c
-    projectPath: Temp\UnityTempFile-97a289ceb8069db4d8d26e5fe89d0b9c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9869a552e00463049a4c8b82f076dabe
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-9869a552e00463049a4c8b82f076dabe
-    projectPath: Temp\UnityTempFile-9869a552e00463049a4c8b82f076dabe
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-986a8de989380c145b374543846ff332
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-986a8de989380c145b374543846ff332
-    projectPath: Temp\UnityTempFile-986a8de989380c145b374543846ff332
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-986ff5e3b158cad44a5d072394ffad38
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-986ff5e3b158cad44a5d072394ffad38
-    projectPath: Temp\UnityTempFile-986ff5e3b158cad44a5d072394ffad38
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-987ff58b0c3f05240803b45563b1b395
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-987ff58b0c3f05240803b45563b1b395
-    projectPath: Temp\UnityTempFile-987ff58b0c3f05240803b45563b1b395
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-988786d53f508b04694d90154781a37c
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-988786d53f508b04694d90154781a37c
-    projectPath: Temp\UnityTempFile-988786d53f508b04694d90154781a37c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-98c6e29256d03214d97319800e99209e
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-98c6e29256d03214d97319800e99209e
-    projectPath: Temp\UnityTempFile-98c6e29256d03214d97319800e99209e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9915924b9d1a929408e26a6953ece6ae
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-9915924b9d1a929408e26a6953ece6ae
-    projectPath: Temp\UnityTempFile-9915924b9d1a929408e26a6953ece6ae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-99928c97b78916843a01836d553a06ed
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-99928c97b78916843a01836d553a06ed
-    projectPath: Temp\UnityTempFile-99928c97b78916843a01836d553a06ed
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9cc93a145008d7743a45686cecb55d51
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-9cc93a145008d7743a45686cecb55d51
-    projectPath: Temp\UnityTempFile-9cc93a145008d7743a45686cecb55d51
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-9fc25f272c5205e4bb6f821c62b71600
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-9fc25f272c5205e4bb6f821c62b71600
-    projectPath: Temp\UnityTempFile-9fc25f272c5205e4bb6f821c62b71600
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a08aab0c076e0b741b8406d0160d7ee4
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-a08aab0c076e0b741b8406d0160d7ee4
-    projectPath: Temp\UnityTempFile-a08aab0c076e0b741b8406d0160d7ee4
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a1c1c5e792bd30a4bace29285efb5535
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-a1c1c5e792bd30a4bace29285efb5535
-    projectPath: Temp\UnityTempFile-a1c1c5e792bd30a4bace29285efb5535
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a24081cfcd160984ba4353e5fec92f17
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-a24081cfcd160984ba4353e5fec92f17
-    projectPath: Temp\UnityTempFile-a24081cfcd160984ba4353e5fec92f17
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-a97978f5c2a42c74e91ce95758155a32
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-a97978f5c2a42c74e91ce95758155a32
-    projectPath: Temp\UnityTempFile-a97978f5c2a42c74e91ce95758155a32
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-aa0fe2736878ced46bbdd96915483729
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-aa0fe2736878ced46bbdd96915483729
-    projectPath: Temp\UnityTempFile-aa0fe2736878ced46bbdd96915483729
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-abb5301f5f8ae49489a93d7c52546396
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-abb5301f5f8ae49489a93d7c52546396
-    projectPath: Temp\UnityTempFile-abb5301f5f8ae49489a93d7c52546396
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ad1599e29abad6b4b98d45a766176eb0
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ad1599e29abad6b4b98d45a766176eb0
-    projectPath: Temp\UnityTempFile-ad1599e29abad6b4b98d45a766176eb0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ae7492455194abc48b9f1b64824df51f
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ae7492455194abc48b9f1b64824df51f
-    projectPath: Temp\UnityTempFile-ae7492455194abc48b9f1b64824df51f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b0713cb01ea058a4586db4078743cd6f
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b0713cb01ea058a4586db4078743cd6f
-    projectPath: Temp\UnityTempFile-b0713cb01ea058a4586db4078743cd6f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b13023f2d13d55e4ea8dce1c2265dce1
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b13023f2d13d55e4ea8dce1c2265dce1
-    projectPath: Temp\UnityTempFile-b13023f2d13d55e4ea8dce1c2265dce1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b36a502d5a58583439c82c036a316125
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b36a502d5a58583439c82c036a316125
-    projectPath: Temp\UnityTempFile-b36a502d5a58583439c82c036a316125
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b459c4ef2f6f7484a91eb0fe6c156be6
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b459c4ef2f6f7484a91eb0fe6c156be6
-    projectPath: Temp\UnityTempFile-b459c4ef2f6f7484a91eb0fe6c156be6
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b56191ca1bd145943b5aa91fd3b68656
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b56191ca1bd145943b5aa91fd3b68656
-    projectPath: Temp\UnityTempFile-b56191ca1bd145943b5aa91fd3b68656
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b726231aa693d394db98fb2c63174959
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b726231aa693d394db98fb2c63174959
-    projectPath: Temp\UnityTempFile-b726231aa693d394db98fb2c63174959
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b7fac513903094d4ea36e88d6af9fce1
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b7fac513903094d4ea36e88d6af9fce1
-    projectPath: Temp\UnityTempFile-b7fac513903094d4ea36e88d6af9fce1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-b8656991ff80e774a82cc717bc859b30
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-b8656991ff80e774a82cc717bc859b30
-    projectPath: Temp\UnityTempFile-b8656991ff80e774a82cc717bc859b30
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ba55a87bfed719e40ae2b89dbc97eaa7
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ba55a87bfed719e40ae2b89dbc97eaa7
-    projectPath: Temp\UnityTempFile-ba55a87bfed719e40ae2b89dbc97eaa7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-baa137d6333ca32458bf1ddb15510994
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-baa137d6333ca32458bf1ddb15510994
-    projectPath: Temp\UnityTempFile-baa137d6333ca32458bf1ddb15510994
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-bb029fa64604c834bb348ebe66294f5a
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-bb029fa64604c834bb348ebe66294f5a
-    projectPath: Temp\UnityTempFile-bb029fa64604c834bb348ebe66294f5a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-be28cc3389c849142b06bd2a836292c0
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-be28cc3389c849142b06bd2a836292c0
-    projectPath: Temp\UnityTempFile-be28cc3389c849142b06bd2a836292c0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c1d0813c0720d13438201a5c21094d33
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-c1d0813c0720d13438201a5c21094d33
-    projectPath: Temp\UnityTempFile-c1d0813c0720d13438201a5c21094d33
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c3ee462d992559d44ba05e17abfc988f
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-c3ee462d992559d44ba05e17abfc988f
-    projectPath: Temp\UnityTempFile-c3ee462d992559d44ba05e17abfc988f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c5c1d53120e2d0941ab4c44ca3eec83a
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-c5c1d53120e2d0941ab4c44ca3eec83a
-    projectPath: Temp\UnityTempFile-c5c1d53120e2d0941ab4c44ca3eec83a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-c8103ae73b137604e845a0adeb894c5e
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-c8103ae73b137604e845a0adeb894c5e
-    projectPath: Temp\UnityTempFile-c8103ae73b137604e845a0adeb894c5e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cab7f483efee2d343bfe4246319f2df2
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-cab7f483efee2d343bfe4246319f2df2
-    projectPath: Temp\UnityTempFile-cab7f483efee2d343bfe4246319f2df2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cbf409fec90907d4d8c0babf6ead7486
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-cbf409fec90907d4d8c0babf6ead7486
-    projectPath: Temp\UnityTempFile-cbf409fec90907d4d8c0babf6ead7486
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-cd55ddb72a0178e43af700884c614195
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-cd55ddb72a0178e43af700884c614195
-    projectPath: Temp\UnityTempFile-cd55ddb72a0178e43af700884c614195
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ce5c606a2feff0f438ed9ca0ee452ac9
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ce5c606a2feff0f438ed9ca0ee452ac9
-    projectPath: Temp\UnityTempFile-ce5c606a2feff0f438ed9ca0ee452ac9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d077cfba6d3db064f9dfcfb94a90df2a
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d077cfba6d3db064f9dfcfb94a90df2a
-    projectPath: Temp\UnityTempFile-d077cfba6d3db064f9dfcfb94a90df2a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d4350bfb88abdc649bcf01a773034cf0
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d4350bfb88abdc649bcf01a773034cf0
-    projectPath: Temp\UnityTempFile-d4350bfb88abdc649bcf01a773034cf0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d4d9975beeb77c342a1403ceb1e57a7c
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d4d9975beeb77c342a1403ceb1e57a7c
-    projectPath: Temp\UnityTempFile-d4d9975beeb77c342a1403ceb1e57a7c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d4f7d4b2f086dc64784e63045e76e57a
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d4f7d4b2f086dc64784e63045e76e57a
-    projectPath: Temp\UnityTempFile-d4f7d4b2f086dc64784e63045e76e57a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d5aef88e95bd9464e8b020573c712944
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d5aef88e95bd9464e8b020573c712944
-    projectPath: Temp\UnityTempFile-d5aef88e95bd9464e8b020573c712944
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d5df373d4dbeef748a97f083a0592fcc
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d5df373d4dbeef748a97f083a0592fcc
-    projectPath: Temp\UnityTempFile-d5df373d4dbeef748a97f083a0592fcc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d7651830b673e2648a0264b512868248
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d7651830b673e2648a0264b512868248
-    projectPath: Temp\UnityTempFile-d7651830b673e2648a0264b512868248
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-d89207dc67ba90a44a81c1af5511dcae
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-d89207dc67ba90a44a81c1af5511dcae
-    projectPath: Temp\UnityTempFile-d89207dc67ba90a44a81c1af5511dcae
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-da870b1fccbd51642bb05390f21494d9
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-da870b1fccbd51642bb05390f21494d9
-    projectPath: Temp\UnityTempFile-da870b1fccbd51642bb05390f21494d9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-db082125d0421a74191baace1b0ed98c
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-db082125d0421a74191baace1b0ed98c
-    projectPath: Temp\UnityTempFile-db082125d0421a74191baace1b0ed98c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-dce20d64c2e202a48ad83e793a83b85c
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-dce20d64c2e202a48ad83e793a83b85c
-    projectPath: Temp\UnityTempFile-dce20d64c2e202a48ad83e793a83b85c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-df1097c369a8d7b44a35f234416d26a7
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-df1097c369a8d7b44a35f234416d26a7
-    projectPath: Temp\UnityTempFile-df1097c369a8d7b44a35f234416d26a7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e01532b434bcda240ac28d275696518a
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-e01532b434bcda240ac28d275696518a
-    projectPath: Temp\UnityTempFile-e01532b434bcda240ac28d275696518a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e48a6daa944049148ad58d98412ee51e
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-e48a6daa944049148ad58d98412ee51e
-    projectPath: Temp\UnityTempFile-e48a6daa944049148ad58d98412ee51e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e6c477412a0c57640a4f5e07f6153725
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-e6c477412a0c57640a4f5e07f6153725
-    projectPath: Temp\UnityTempFile-e6c477412a0c57640a4f5e07f6153725
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e810886b6f83c3843b5cd443aab16e17
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-e810886b6f83c3843b5cd443aab16e17
-    projectPath: Temp\UnityTempFile-e810886b6f83c3843b5cd443aab16e17
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-e8a50975e3b1bf04291896e6bd4f8500
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-e8a50975e3b1bf04291896e6bd4f8500
-    projectPath: Temp\UnityTempFile-e8a50975e3b1bf04291896e6bd4f8500
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ea75c1f66d7cba8438740beb82523677
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ea75c1f66d7cba8438740beb82523677
-    projectPath: Temp\UnityTempFile-ea75c1f66d7cba8438740beb82523677
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-eae13a3f9342b9b42b81f988812493e7
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-eae13a3f9342b9b42b81f988812493e7
-    projectPath: Temp\UnityTempFile-eae13a3f9342b9b42b81f988812493e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ed3e8fcf3d1d77c408afdcad74b1d047
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ed3e8fcf3d1d77c408afdcad74b1d047
-    projectPath: Temp\UnityTempFile-ed3e8fcf3d1d77c408afdcad74b1d047
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ee756ad15bd320740b221c00cb973dac
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-ee756ad15bd320740b221c00cb973dac
-    projectPath: Temp\UnityTempFile-ee756ad15bd320740b221c00cb973dac
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f0052318c23e4a643858bcca583d3552
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f0052318c23e4a643858bcca583d3552
-    projectPath: Temp\UnityTempFile-f0052318c23e4a643858bcca583d3552
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f2c6fff1bbca3f745908e3eb6c210d01
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f2c6fff1bbca3f745908e3eb6c210d01
-    projectPath: Temp\UnityTempFile-f2c6fff1bbca3f745908e3eb6c210d01
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f2ffb9361472ef743940c012ce9ddd69
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f2ffb9361472ef743940c012ce9ddd69
-    projectPath: Temp\UnityTempFile-f2ffb9361472ef743940c012ce9ddd69
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f32b1801736acc942ba697c7cd34559f
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f32b1801736acc942ba697c7cd34559f
-    projectPath: Temp\UnityTempFile-f32b1801736acc942ba697c7cd34559f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f355ae53f9bc6644f9b3b742a5326752
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f355ae53f9bc6644f9b3b742a5326752
-    projectPath: Temp\UnityTempFile-f355ae53f9bc6644f9b3b742a5326752
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f50b2b1b2bc0e254f84733e7188dd6e3
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f50b2b1b2bc0e254f84733e7188dd6e3
-    projectPath: Temp\UnityTempFile-f50b2b1b2bc0e254f84733e7188dd6e3
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-f99437ca1189f3a4faeeda8c89f4f700
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-f99437ca1189f3a4faeeda8c89f4f700
-    projectPath: Temp\UnityTempFile-f99437ca1189f3a4faeeda8c89f4f700
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fc39eb0ccd37e1a448fd5fabef4cc095
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-fc39eb0ccd37e1a448fd5fabef4cc095
-    projectPath: Temp\UnityTempFile-fc39eb0ccd37e1a448fd5fabef4cc095
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fdcd547d6705f1b4b8c034bd03090013
-    fullPath: E:\Unity\salad-chef\Temp\UnityTempFile-fdcd547d6705f1b4b8c034bd03090013
-    projectPath: Temp\UnityTempFile-fdcd547d6705f1b4b8c034bd03090013
+  - path: UnityEngine.UI.csproj
+    fullPath: E:\Unity\salad-chef\UnityEngine.UI.csproj
+    projectPath: UnityEngine.UI.csproj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

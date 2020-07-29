@@ -1,21 +1,41 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SocialPlatforms.Impl;
 
 public class Players : MonoBehaviour
 {
 	public Transform player1,player2;
 	public float player1_speed=3f,player2_speed=3f;
 
+	public string winner;
+	public float winnerScore;
 	public GameObject left,right;
-
+	
 	void Start() {
-
+		
 	}
 
     // Update is called once per frame
     void Update()
     {
+		
+		if(player1_speed==0 && player2_speed==0)
+        {
+			//Game Over!
+			float score_player1, score_player2;
+			score_player1 = GameObject.Find("Player1").GetComponent<PlayerScript>().score;
+			score_player2 = GameObject.Find("Player2").GetComponent<PlayerScript>().score;
+			if (score_player1 == score_player2)
+				PlayerPrefs.SetString("Winner","Draw");
+			else if (score_player1 < score_player2)
+				PlayerPrefs.SetString("Winner", "Player 1");
+			else
+				PlayerPrefs.SetString("Winner", "Player2");
+			PlayerPrefs.SetFloat("WinnerScore",Mathf.Max(0f,score_player1, score_player2));
+			Application.LoadLevel(1);
+			Debug.Log("Game Over!");
+        }
     	float player1_hor=Input.GetAxis("Player1_Horizontal");
     	float player1_vert=Input.GetAxis("Player1_Vertical");
 		
