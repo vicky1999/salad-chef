@@ -13,30 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-30T09:22:28.210+05:30
+  lastUpdatedAtString: 2020-07-30T09:34:19.078+05:30
   initializedAtString: 2020-07-30T08:56:57.822+05:30
   entries:
-  - path: Library\assetDatabase3
-    fullPath: E:\Unity\salad-chef\Library\assetDatabase3
-    projectPath: Library\assetDatabase3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\CurrentLayout-default.dwlt
-    fullPath: E:\Unity\salad-chef\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\CurrentMaximizeLayout.dwlt
     fullPath: E:\Unity\salad-chef\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\EditorInstance.json
-    fullPath: E:\Unity\salad-chef\Library\EditorInstance.json
-    projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -70,87 +52,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: E:\Unity\salad-chef\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\repoinfo.yaml
     fullPath: E:\Unity\salad-chef\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: E:\Unity\salad-chef\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
-    fullPath: E:\Unity\salad-chef\Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
-    projectPath: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
-    projectPath: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648
-    fullPath: E:\Unity\salad-chef\Library\metadata\a6\a6506cadadb77024e8f515f6f2349648
-    projectPath: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648.info
-    fullPath: E:\Unity\salad-chef\Library\metadata\a6\a6506cadadb77024e8f515f6f2349648.info
-    projectPath: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648.info
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: E:\Unity\salad-chef\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
-    projectPath: Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\Hierarchy\ddee89-mainStage.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-mainStage.json
-    projectPath: Library\StateCache\Hierarchy\ddee89-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
-    projectPath: Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\SceneView\41c2ee-mainStage.json
-    fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-mainStage.json
-    projectPath: Library\StateCache\SceneView\41c2ee-mainStage.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Screenshots\1.png
-    fullPath: E:\Unity\salad-chef\Screenshots\1.png
-    projectPath: Screenshots\1.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Screenshots\2.png
-    fullPath: E:\Unity\salad-chef\Screenshots\2.png
-    projectPath: Screenshots\2.png
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Screenshots\3.png
-    fullPath: E:\Unity\salad-chef\Screenshots\3.png
-    projectPath: Screenshots\3.png
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3

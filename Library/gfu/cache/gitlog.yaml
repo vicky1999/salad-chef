@@ -13,9 +13,231 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-07-30T09:16:46.950+05:30
+  lastUpdatedAtString: 2020-07-30T09:31:07.951+05:30
   initializedAtString: 2020-07-30T09:16:45.814+05:30
   log:
+  - commitID: 38b99af0c3803fe3e21c623d0f84ff338e00e3f5
+    mergeA: 
+    mergeB: 
+    authorName: vicky1999
+    authorEmail: ravivignesh2000@gmail.com
+    commitEmail: ravivignesh2000@gmail.com
+    commitName: vicky1999
+    summary: Revert "Revert "updated customer sprite""
+    description: This reverts commit ff4de44f84d94f6e97e0bd7b2eb2c1bed0414635.
+    timeString: 2020-07-30T09:27:45.000+05:30
+    commitTimeString: 2020-07-30T09:27:45.000+05:30
+    changes:
+    - path: Assets\Prefabs\Normal_Customer.prefab
+      fullPath: E:\Unity\salad-chef\Assets\Prefabs\Normal_Customer.prefab
+      projectPath: Assets\Prefabs\Normal_Customer.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: E:\Unity\salad-chef\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Textures\Customer.png
+      fullPath: E:\Unity\salad-chef\Assets\Textures\Customer.png
+      projectPath: Assets\Textures\Customer.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets\Textures\Customer.png.meta
+      fullPath: E:\Unity\salad-chef\Assets\Textures\Customer.png.meta
+      projectPath: Assets\Textures\Customer.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: ff4de44f84d94f6e97e0bd7b2eb2c1bed0414635
+    mergeA: 
+    mergeB: 
+    authorName: vicky1999
+    authorEmail: ravivignesh2000@gmail.com
+    commitEmail: ravivignesh2000@gmail.com
+    commitName: vicky1999
+    summary: Revert "updated customer sprite"
+    description: This reverts commit db8a6b128b4c1d08403a59088a368b0a9fd408f3.
+    timeString: 2020-07-30T09:27:12.000+05:30
+    commitTimeString: 2020-07-30T09:27:12.000+05:30
+    changes:
+    - path: Assets\Prefabs\Normal_Customer.prefab
+      fullPath: E:\Unity\salad-chef\Assets\Prefabs\Normal_Customer.prefab
+      projectPath: Assets\Prefabs\Normal_Customer.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Scenes\SampleScene.unity
+      fullPath: E:\Unity\salad-chef\Assets\Scenes\SampleScene.unity
+      projectPath: Assets\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Assets\Textures\Customer.png
+      fullPath: E:\Unity\salad-chef\Assets\Textures\Customer.png
+      projectPath: Assets\Textures\Customer.png
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Assets\Textures\Customer.png.meta
+      fullPath: E:\Unity\salad-chef\Assets\Textures\Customer.png.meta
+      projectPath: Assets\Textures\Customer.png.meta
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 54c36c28e5ae794f1568d870ae52b88b7da4e83f
+    mergeA: 
+    mergeB: 
+    authorName: vicky1999
+    authorEmail: ravivignesh2000@gmail.com
+    commitEmail: ravivignesh2000@gmail.com
+    commitName: vicky1999
+    summary: update screenshots
+    description: 
+    timeString: 2020-07-30T09:22:49.000+05:30
+    commitTimeString: 2020-07-30T09:22:49.000+05:30
+    changes:
+    - path: Library\CurrentLayout-default.dwlt
+      fullPath: E:\Unity\salad-chef\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: E:\Unity\salad-chef\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\EditorInstance.json
+      fullPath: E:\Unity\salad-chef\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: E:\Unity\salad-chef\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
+      fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
+      projectPath: Library\StateCache\Hierarchy\ddee89-8cb6bfb40af1cc7408.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\Hierarchy\ddee89-mainStage.json
+      fullPath: E:\Unity\salad-chef\Library\StateCache\Hierarchy\ddee89-mainStage.json
+      projectPath: Library\StateCache\Hierarchy\ddee89-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
+      fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
+      projectPath: Library\StateCache\SceneView\41c2ee-8cb6bfb40af1cc7408.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\StateCache\SceneView\41c2ee-mainStage.json
+      fullPath: E:\Unity\salad-chef\Library\StateCache\SceneView\41c2ee-mainStage.json
+      projectPath: Library\StateCache\SceneView\41c2ee-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\assetDatabase3
+      fullPath: E:\Unity\salad-chef\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
+      fullPath: E:\Unity\salad-chef\Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
+      projectPath: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
+      fullPath: E:\Unity\salad-chef\Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
+      projectPath: Library\metadata\8c\8cb6bfb40af1cc74084a025d85a4a0e8.info
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648
+      fullPath: E:\Unity\salad-chef\Library\metadata\a6\a6506cadadb77024e8f515f6f2349648
+      projectPath: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648.info
+      fullPath: E:\Unity\salad-chef\Library\metadata\a6\a6506cadadb77024e8f515f6f2349648.info
+      projectPath: Library\metadata\a6\a6506cadadb77024e8f515f6f2349648.info
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: E:\Unity\salad-chef\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Screenshots\1.png
+      fullPath: E:\Unity\salad-chef\Screenshots\1.png
+      projectPath: Screenshots\1.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Screenshots\2.png
+      fullPath: E:\Unity\salad-chef\Screenshots\2.png
+      projectPath: Screenshots\2.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Screenshots\3.png
+      fullPath: E:\Unity\salad-chef\Screenshots\3.png
+      projectPath: Screenshots\3.png
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: db8a6b128b4c1d08403a59088a368b0a9fd408f3
     mergeA: 
     mergeB: 
