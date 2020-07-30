@@ -13,9 +13,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-07-30T09:31:07.951+05:30
+  lastUpdatedAtString: 2020-07-30T09:44:48.704+05:30
   initializedAtString: 2020-07-30T09:16:45.814+05:30
   log:
+  - commitID: 84b34786ee4625466a6fc6560d129209ce228150
+    mergeA: 
+    mergeB: 
+    authorName: vicky1999
+    authorEmail: ravivignesh2000@gmail.com
+    commitEmail: ravivignesh2000@gmail.com
+    commitName: vicky1999
+    summary: update Library
+    description: 
+    timeString: 2020-07-30T09:44:42.000+05:30
+    commitTimeString: 2020-07-30T09:44:42.000+05:30
+    changes:
+    - path: Library\CurrentMaximizeLayout.dwlt
+      fullPath: E:\Unity\salad-chef\Library\CurrentMaximizeLayout.dwlt
+      projectPath: Library\CurrentMaximizeLayout.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: E:\Unity\salad-chef\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: E:\Unity\salad-chef\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 38b99af0c3803fe3e21c623d0f84ff338e00e3f5
     mergeA: 
     mergeB: 
