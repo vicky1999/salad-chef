@@ -27,14 +27,14 @@ RectTransform:
   m_GameObject: {fileID: 1988863576051225420}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5951374, y: 0.15763406, z: 1}
+  m_LocalScale: {x: 0.09747514, y: 0.012067345, z: 1}
   m_Children: []
   m_Father: {fileID: 1988863577973897624}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1219.8, y: -1395}
+  m_AnchoredPosition: {x: -1219.8, y: -1491.4602}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &1988863576051225409
@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9803922, g: 0.9568628, b: 0.79215693, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -101,8 +101,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1988863576159451546}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 257.81, y: 189.3, z: 0}
-  m_LocalScale: {x: 0.06, y: 0.05, z: 1}
+  m_LocalPosition: {x: -6, y: 3.77, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1988863577973897624}
   m_Father: {fileID: 0}
@@ -146,8 +146,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: a6506cadadb77024e8f515f6f2349648, type: 3}
-  m_Color: {r: 0.9433962, g: 0.9433962, b: 0.9433962, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 6bb2005fd4eb31e46be80c44ce2dd05f, type: 3}
+  m_Color: {r: 0.9811321, g: 0.745105, b: 0.745105, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -174,9 +174,8 @@ MonoBehaviour:
   timer: {fileID: 1988863577923377792}
   customers:
   - {fileID: 1988863576159451546}
-  - {fileID: 1988863576159451546}
-  player1: {fileID: 0}
-  player2: {fileID: 0}
+  player1: {fileID: 5226390873558438327, guid: 8e90a4bb8f5f9dd49b34a4e4760fa167, type: 3}
+  player2: {fileID: 469339758405937961, guid: b40e1db115ec6f844bcaac60ee9e90fa, type: 3}
 --- !u!61 &5352298320291826030
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -190,18 +189,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -3.97, y: -25}
+  m_Offset: {x: 0, y: -0.81}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 33.61836, y: 48.350002}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 11.7, y: 40}
+  m_Size: {x: 1.7, y: 2.3}
   m_EdgeRadius: 0
 --- !u!50 &6708028648277864093
 Rigidbody2D:
@@ -251,14 +250,14 @@ RectTransform:
   m_GameObject: {fileID: 1988863577923377794}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.5951374, y: 0.15763412, z: 1}
+  m_LocalScale: {x: 0.09747514, y: 0.012067345, z: 1}
   m_Children: []
   m_Father: {fileID: 1988863577973897624}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1219.8, y: -1394.999}
+  m_AnchoredPosition: {x: -1219.7999, y: -1491.4602}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &1988863577923377799
@@ -425,14 +424,14 @@ RectTransform:
   m_GameObject: {fileID: 8435647654046200975}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9121483, y: 1.084339, z: 1}
+  m_LocalScale: {x: 0.05367651, y: 0.045826174, z: 1}
   m_Children: []
   m_Father: {fileID: 1988863577973897624}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1311.3, y: -1482.9}
+  m_AnchoredPosition: {x: -1219.19, y: -1497.23}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &8435647654046200972
