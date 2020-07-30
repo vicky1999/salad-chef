@@ -45,8 +45,8 @@ public class Players : MonoBehaviour
 		float hor_min=Camera.main.ScreenToWorldPoint(left.transform.position).x+1.25f;
 		float hor_max=Camera.main.ScreenToWorldPoint(right.transform.position).x-1.25f;
 
-    	if(player1.transform.position.y>1.52f && player1_vert>0 || player1.transform.position.y<-3.05 && player1_vert<0) player1_vert=0f;
-		if(player2.transform.position.y>1.52f && player2_vert>0 || player2.transform.position.y<-3.05 && player2_vert<0) player2_vert=0f;
+    	if(player1.transform.position.y>1.52f && player1_vert>0 || player1.transform.position.y<-2.5 && player1_vert<0) player1_vert=0f;
+		if(player2.transform.position.y>1.52f && player2_vert>0 || player2.transform.position.y<-2.5 && player2_vert<0) player2_vert=0f;
 
 		if(player1.transform.position.x>hor_max && player1_hor>0 || player1.transform.position.x<hor_min && player1_hor<0) {
 			player1_hor=0f;

@@ -24,7 +24,7 @@ public class Customer : MonoBehaviour
 		needed=dishes[Random.Range(0,5)];
 		text.text=needed;
     }
-
+	
     // Update is called once per frame
     void Update()
     {

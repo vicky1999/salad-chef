@@ -57,6 +57,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\Customer.cs" />
      <Compile Include="Assets\Scripts\FinishedScript.cs" />
+     <Compile Include="Assets\Scripts\PlayerAnim.cs" />
      <Compile Include="Assets\Scripts\Players.cs" />
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />

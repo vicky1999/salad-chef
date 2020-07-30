@@ -9,7 +9,8 @@ public class PlayerScript : MonoBehaviour
 	public string veg;
 	public GameObject left,right;
 	public GameObject plate1,plate2;
-	public TextMeshProUGUI text;
+	public TextMeshProUGUI text,taken;
+	public GameObject vegetables;
 
 	public float score=0f;
 
@@ -18,7 +19,7 @@ public class PlayerScript : MonoBehaviour
 	public int ind=0;
 
 	void Start() {
-
+		veg = "";
 		score=0f;
 		hor_min=Camera.main.ScreenToWorldPoint(left.transform.position).x+1.25f;
 		hor_max=Camera.main.ScreenToWorldPoint(right.transform.position).x-1.25f;
@@ -53,11 +54,11 @@ public class PlayerScript : MonoBehaviour
 	}
 
 	bool isOnPosition() {
-		if(this.transform.position.y < -2.8f && ind==0 &&
+		if(this.transform.position.y < -2.5f && ind==0 &&
 			this.transform.position.x > 1.78f && this.transform.position.x < 3f) {
 			return true;
 		}
-		if(this.transform.position.y < -2.8f && ind==1 &&
+		if(this.transform.position.y < -2.5f && ind==1 &&
 			this.transform.position.x > -2.6f && this.transform.position.x < -1f) {
 			return true;
 		}
@@ -103,6 +104,7 @@ public class PlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+		taken.text = veg;
 		score = Mathf.Max(0, score);
     	text.text="Score : "+score.ToString();
     	if(this.transform.position.x<=hor_min+0.5f && ind==0) {
@@ -130,21 +132,25 @@ public class PlayerScript : MonoBehaviour
         	check(KeyCode.Comma,"onion");
         }
 
-		if(player_has && this.transform.position.x>=-0.2 && this.transform.position.y<=0.7)
+		if(player_has && this.transform.position.x>=-2f && this.transform.position.x <= 2f && this.transform.position.y<=-2f)
         {
-			if((ind==1 && Input.GetKeyDown(KeyCode.H)) || (ind == 0 && Input.GetKeyDown(KeyCode.Semicolon)))
+			if((ind==0 && Input.GetKeyDown(KeyCode.H)) || (ind == 1 && Input.GetKeyDown(KeyCode.Semicolon)))
             {
+				Instantiate(vegetables, new Vector3(0f,-2.8f,0f), Quaternion.identity);
 				player_has = false;
+				score -= 10f;
 				veg = "";
 
             }
         }
 
         if(player_has && ind==0 && Input.GetKeyDown(KeyCode.F)&& isOnPosition()) {
-        	startChopping();
+			GameObject.Find("Chef_1").GetComponent<PlayerAnim>().setIdle();
+			startChopping();
         }
-        if(player_has && ind==1 && Input.GetKeyDown(KeyCode.RightAlt)&& isOnPosition()) {
-        	startChopping();
+        if(player_has && ind==1 && Input.GetKeyDown(KeyCode.AltGr)&& isOnPosition()) {
+			GameObject.Find("Chef_2").GetComponent<PlayerAnim>().setIdle();
+			startChopping();
         }
 
     }
